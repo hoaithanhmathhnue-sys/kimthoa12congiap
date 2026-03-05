@@ -16,7 +16,7 @@
     },
     {
       "number": 2,
-      "text": "Bạn A thực hiện tạo website cá nhân gồm các trang web sau: Trang Giới thiệu cung cấp thông tin cá nhân gồm tên, ngày sinh, địa chỉ và mô tả ngắn về bản thân; Trang Dự án cung cấp danh sách dự án tình nguyện mà bạn đã tham gia, trong đó có tên dự án, mô tả nội dung dự án; Trang Blog chia sẻ những suy nghĩ, trải nghiệm về các lĩnh vực mà bạn quan tâm. Các trang đều có liên kết tới trang mạng xã hội của bạn.\nBạn học sinh đó có một số nhận xét sau đây:\nB. Phần riêng.",
+      "text": "Bạn A thực hiện tạo website cá nhân gồm các trang web sau: Trang Giới thiệu cung cấp thông tin cá nhân gồm tên, ngày sinh, địa chỉ và mô tả ngắn về bản thân; Trang Dự án cung cấp danh sách dự án tình nguyện mà bạn đã tham gia, trong đó có tên dự án, mô tả nội dung dự án; Trang Blog chia sẻ những suy nghĩ, trải nghiệm về các lĩnh vực mà bạn quan tâm. Các trang đều có liên kết tới trang mạng xã hội của bạn.\nBạn học sinh đó có một số nhận xét sau đây:",
       "items": {
         "a": "Đăng thông tin như bài viết, hình ảnh về vùng bị ảnh hưởng của thiên tai và viết những bài blog với nội dung chia sẻ chân thành sự đồng cảm của mình với đồng bào bị thiên tai. (Đúng) D2/C2a-B-BC5",
         "b": "Sau khi xuất bản website ra một địa chỉ trên internet, trang web chỉ hoạt động trên thiết bị duy nhất là máy tính . (Sai) D2/C2b-B-AC1",
@@ -49,7 +49,7 @@
     },
     {
       "number": 5,
-      "text": "Trong giờ thực hành tin học ở trường THPT A, một học sinh thiết kế một cơ sở dữ liệu quản lí điểm học sinh gồm các bảng có cấu trúc như sau:\nBảng HỌC SINH gồm các trường: Mã định danh, Họ tên, Ngày sinh, Giới tính, Địa chỉ, Mã lớp.\nBảng LỚP gồm các trường: Mã lớp, Tên lớp, Giáo viên chủ nhiệm.\nBảng ĐIỂM TỔNG KẾT gồm các trường: Mã định danh, TB Toán, TB Ngữ văn, TB Tiếng Anh, TB Sử, TB Tin, TB CNNN, TB GDKT – PL.\nMột số bạn học sinh đưa ra các phát biểu sau:\nBảng LỚP liên kết với bảng HỌC SINH thông qua trường Mã lớp.\nBảng HỌC SINH liên kết với bảng ĐIỂM TỔNG KẾT thông qua trường Mã định danh. (ĐÚNG)",
+      "text": "Trong giờ thực hành tin học ở trường THPT A, một học sinh thiết kế một cơ sở dữ liệu quản lí điểm học sinh gồm các bảng có cấu trúc như sau:\nBảng HỌC SINH gồm các trường: Mã định danh, Họ tên, Ngày sinh, Giới tính, Địa chỉ, Mã lớp.\nBảng LỚP gồm các trường: Mã lớp, Tên lớp, Giáo viên chủ nhiệm.\nBảng ĐIỂM TỔNG KẾT gồm các trường: Mã định danh, TB Toán, TB Ngữ văn, TB Tiếng Anh, TB Sử, TB Tin, TB CNNN, TB GDKT – PL.\nMột số bạn học sinh đưa ra các phát biểu sau:",
       "items": {
         "a": "Trong bảng HỌC SINH, chọn kiểu dữ liệu cho trường Ngày sinh là kiểu dữ liệu số. (SAI) (C5a-B-CC5)",
         "b": "Trong bảng LỚP chọn trường Mã lớp làm khóa chính. (ĐÚNG) (C5b-B-CC5)",
@@ -60,7 +60,7 @@
     },
     {
       "number": 6,
-      "text": "Một bạn học sinh làm trang web giới thiệu về các câu lạc bộ trong trường THPT A với toàn thể học sinh trong và ngoài trường. Trang web bao gồm các mục nội dung chính: Trang chủ, Các câu lạc bộ, Liên hệ. Các bạn đưa ra một vài nhận xét như sau:\n<img src = “CLB_My_Thuat” alt = “Mỹ Thuật” width = “800” height = “300”>. (Sai) (D2/C6c-H-CC3)\nĐƠN VỊ:\nMA TRẬN NỘI DUNG, NĂNG LỰC VÀ CẤP ĐỘ TƯ DUY\nĐỀ THI TỐT NGHIỆP THPT\nMôn: Tin học\nThời gian làm bài: 50 phút, không kể thời gian phát đề",
+      "text": "Một bạn học sinh làm trang web giới thiệu về các câu lạc bộ trong trường THPT A với toàn thể học sinh trong và ngoài trường. Trang web bao gồm các mục nội dung chính: Trang chủ, Các câu lạc bộ, Liên hệ. Các bạn đưa ra một vài nhận xét như sau:",
       "items": {
         "a": "Có thể nhập nội dung bài viết của các câu lạc bộ vào trang web trong khung soạn thảo văn bản hoặc chọn các khối mẫu được xây dựng sẵn và thực hiện tùy chỉnh nội dung, định dạng văn bản. (Đúng) (D2/C6a-B-CC3)",
         "b": "Các đối tượng như hình ảnh, video riêng lẻ cập nhật quá trình hoạt động của các câu lạc bộ chỉ được sắp xếp dưới dạng lưới và dạng danh sách. (Sai) (D2/C6b-B-CC3)",

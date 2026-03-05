@@ -3,26 +3,147 @@
   "title": "Đề 8",
   "mcQuestions": [
     {
+      "number": 1,
+      "text": "(12F,B,CC3). Trong các thẻ sau, thẻ nào được dùng để liên kết một tập tin CSS ngoài vào một trang web trong ngôn ngữ HTML?",
+      "options": {
+        "A": "<style>",
+        "B": "<css>",
+        "C": "<link>",
+        "D": "<script>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 2,
+      "text": "(12F,B,CC3). Chọn phương án ĐÚNG khi nói về thuộc tính được dùng để xác định kích thước của font chữ trong CSS của ngôn ngữ HTML?",
+      "options": {
+        "A": "font-size",
+        "B": "text-size",
+        "C": "size",
+        "D": "font-style"
+      },
+      "answer": ""
+    },
+    {
+      "number": 3,
+      "text": "(12A,B,CC9).  Thuật ngữ AI bắt đầu được sử dụng tại hội thảo ở Đại học Dartmouth (Mỹ) vào năm nào?",
+      "options": {
+        "A": "1955",
+        "B": "1957",
+        "C": "1950",
+        "D": "1956"
+      },
+      "answer": ""
+    },
+    {
+      "number": 4,
+      "text": "(12A,B,CC9).  Lĩnh vực nghiên cứu nào của AI có khả năng phân tích và nhận dạng các hình ảnh từ thế giới bên ngoài?",
+      "options": {
+        "A": "Thị giác máy tính",
+        "B": "AI tạo sinh",
+        "C": "Học máy",
+        "D": "Xử lí ngôn ngữ tự nhiên"
+      },
+      "answer": ""
+    },
+    {
+      "number": 5,
+      "text": "(12A,H,CC9). Hệ thống AI có khả năng nào dưới đây giúp nó trở nên thông minh hơn?",
+      "options": {
+        "A": "Sử dụng cảm xúc",
+        "B": "Tự động học từ dữ liệu mới",
+        "C": "Sao chép tài liệu trước đó",
+        "D": "Khả năng đọc báo cáo"
+      },
+      "answer": ""
+    },
+    {
+      "number": 6,
+      "text": "(12A,H,CC9). Một chatbot sử dụng AI có thể giúp gì trong việc tư vấn tâm lý?",
+      "options": {
+        "A": "Đưa ra những câu trả lời tự động để hỗ trợ ban đầu cho người dùng",
+        "B": "Có thể chẩn đoán bệnh cho người dùng",
+        "C": "Chatbot sử dụng AI thay thế hoàn toàn nhà tâm lý học",
+        "D": "Ghi âm lại cuộc nói chuyện giữa người dùng với nhau"
+      },
+      "answer": ""
+    },
+    {
       "number": 7,
-      "text": "Chức năng nào sau đây không phải là chức năng của Hệ điều hành :",
+      "text": "(12B,B,AC5) Chức năng nào sau đây không phải là chức năng của Hệ điều hành (HĐH):",
       "options": {
         "A": "Tạo và tổ chức lưu trữ các tệp trên bộ nhớ ngoài",
         "B": "Kiểm tra và hỗ trợ bằng phần mềm cho các thiết bị ngoại vi",
-        "C": "Thực hiện tìm kiếm, lưu trữ thông tin trên Internet.",
+        "C": "Thực hiện tìm kiếm, lưu trữ thông tin trên Internet",
         "D": "Cung cấp phương thức giao tiếp để người dùng điều khiển máy tính"
       },
       "answer": "C"
     },
     {
       "number": 8,
-      "text": "Phát biểu nào sau đây đúng?\nCâu 9 (12D,B,BC5). Phương án nào sau đây KHÔNG thuộc về quyền của người dùng trong môi trường số?\nCâu 10 (12D,H,BC5). Phát biểu nào sau đây thể hiện tính nhân văn khi tham gia trong không gian mạng?\nCâu 11(12D,V,BC4). Khi tham gia khoá học trực tuyến, bạn Nam nhận thấy một số trường hợp học liệu không được cập nhật hoặc không đảm bảo về chất lượng giảng dạy. Phương án nào sau đây thể hiện nhược điểm chính của khóa học mà bạn Nam đang tham gia?\nCâu 12 (12F,B,CC3). Trong HTML, khi chèn hình ảnh vào trang web, thuộc tính nào sau đây được sử dụng để cung cấp văn bản thay thế (hiển thị khi hình ảnh không thể tải)?\nCâu 13(12F,B,CC3). Trong một văn bản HTML, thẻ nào sau đây dùng để khai báo tiêu đề trang web, các siêu dữ liệu mô tả thông tin về trang web ?\nCâu 14(12F,V,CC3.) Để chèn một liên kết vào trang web sao cho khi người dùng nhấp vào, liên kết sẽ mở trong một tab mới của trình duyệt. Đoạn mã HTML nào sau đây thực hiện đúng yêu cầu?\nCâu 15(12F, V, CC3). Trong HTML để nhúng một video từ YouTube vào trang web, thuộc tính nào sau đây cần thiết trong thẻ <iframe> để video tự động phát khi tải trang?\nCâu 16(12F,V,CC3). Trong tệp ‘index.html’ cần tạo liên kết ‘Sở thích’ đến tới tệp ‘hobbies.html’, biết 2 tệp này nằm cùng thư mục ‘webcanhan’. Trong tệp ‘index.html’ cần sử dụng liên kết nào sau đây ?\n<a href = “webcanhan/hobbies.html”> Sở thích </a>\n<a href = “hobbies.html”> Sở thích </a>.\n<a href = “/webcanhan/hobbies.html”> Sở thích </a>\n<a href = “/hobbies.html”> Sở thích </a>\nCâu 17(12G, H, CC9). Phát biểu nào sau đây mô tả sai về nghề Bảo mật hệ thống thông tin?\nCâu 18 (12G, B, CC9). Phát biểu nào sau đây mô tả đúng về nghề Quản trị mạng và hệ thống?\nCâu 19(12G, B, CC9). Phát biểu nào sau đây mô tả đúng về nghề Sửa chữa và bảo trì máy tính?\nCâu 20(12G,B,CC9). Căn cứ vào Quyết định số 699/QĐ-BTTTT ngày 03/05/2024 Bô Thông tin truyền thông phê duyệt kế hoạch hành động năm 2024 triển khai chiến lược phát triển ứng dụng trí tuệ nhân tạo đến năm 2030, đến năm 2030 dịch vụ công trực tuyến toàn trình có ứng dụng AI(ví dụ: sử dụng trợ lý ảo, trả lời tự động, robot phần mềm…) hỗ trợ người dân, doanh nghiệp đạt bao nhiêu phần trăm?\nCâu 21(10F,H,CC1). Phát biểu nào sau đây chưa đúng về kiểu dữ liệu có cấu trúc?\nCâu 22(10F,V,CC1). Chọn một trong hai ngôn ngữ Python hoặc C++ để xem xét đoạn chương trình sau:\nHãy cho biết đoạn chương trình trên thực hiện công việc gì?\nCâu 23 (11F,H,CC5). Phương án nào sau đây sai khi phát biểu về hệ cơ sở dữ liệu?\nCâu 24(11F,V,CC5). Giả sử Cơ sở dữ liệu Thư viện có bảng MƯỢN_TRẢ liên kết với bảng NGƯỜI_ĐỌC qua khoá ngoài là Số thẻ TV như sau:\nBảng MƯỢN_TRẢ\t\t\tBảng NGƯỜI_ĐỌC\nPhương án nào sau đây đúng khi phát biểu về cơ sở dữ liệu Thư viện?",
+      "text": "(12B,V,AC7) Phát biểu nào sau đây đúng?",
       "options": {
-        "A": "Có thể cập nhật thêm một bản ghi cho bảng MƯỢN_TRẢ với dữ liệu tương ứng như sau:",
-        "B": "Có thể cập nhật thêm một bản ghi cho bảng NGƯỜI_ĐỌC với dữ liệu tương ứng như sau:.",
-        "C": "Có thể chọn tập hợp gồm 2 trường: Số thẻ TV và Họ tên làm khoá của bảng NGƯỜI_ĐỌC",
-        "D": "Thuộc tính Số thẻ TV là khoá ngoài của bảng MƯỢN_TRẢ nên cũng phải là khoá chính của bảng MƯỢN_TRẢ"
+        "A": "Có thể truy cập trang web theo tên miền hay theo địa chỉ IP đều được",
+        "B": "Có thể kết nối trực tiếp 40 máy tính vào modem để truy cập Internet",
+        "C": "Máy tính cần được trang bị bộ giao tiếp mạng có dây để kết nối với Access Point",
+        "D": "Từ hệ thống mạng LAN, người dùng có thể lưu trữ dữ liệu trực tuyến"
       },
       "answer": "B"
+    },
+    {
+      "number": 9,
+      "text": "(12D,B,BC5). Phương án nào sau đây KHÔNG thuộc về quyền của người dùng trong môi trường số?",
+      "options": {
+        "A": "Quyền truy cập thông tin công khai",
+        "B": "Quyền tự do đăng tải bất kỳ nội dung nào mà không cần kiểm duyệt",
+        "C": "Quyền bảo mật thông tin cá nhân",
+        "D": "Quyền xóa bỏ dữ liệu cá nhân khi cần thiết"
+      },
+      "answer": ""
+    },
+    {
+      "number": 10,
+      "text": "(12D,H,BC5). Phát biểu nào sau đây thể hiện tính nhân văn khi tham gia trong không gian mạng?",
+      "options": {
+        "A": "Like và chia sẻ bất cứ hình ảnh thương tâm nào cần sự giúp đỡ được đăng trên mạng mà bản thân nhìn thấy",
+        "B": "Không gian mạng cung cấp một nền tảng giúp người khiếm thính, khiếm ngôn dễ dàng giao tiếp mà không cần người hỗ trợ",
+        "C": "Người giao tiếp  có thể tạo các thông tin không chính xác về bản thân để kết nối với nhiều người hơn",
+        "D": "Người giao tiếp dễ dàng chia sẻ hình ảnh, thông tin riêng tư của bản thân và bạn bè lên mạng xã hội"
+      },
+      "answer": ""
+    },
+    {
+      "number": 12,
+      "text": "(12F,B,CC3). Trong HTML, khi chèn hình ảnh vào trang web, thuộc tính nào sau đây được sử dụng để cung cấp văn bản thay thế (hiển thị khi hình ảnh không thể tải)?",
+      "options": {
+        "A": "alt",
+        "B": "title",
+        "C": "text",
+        "D": "description"
+      },
+      "answer": ""
+    },
+    {
+      "number": 18,
+      "text": "(12G, B, CC9). Phát biểu nào sau đây mô tả đúng về nghề Quản trị mạng và hệ thống?",
+      "options": {
+        "A": "Kĩ thuật viên công nghệ thông tin là người phụ trách công việc Quản trị mạng và hệ thống",
+        "B": "Người Quản trị mạng và hệ thống nhất thiết phải lập trình thành thạo",
+        "C": "Để trở thành người Quản trị mạng và hệ thống cần phải được đào tạo một cách bài bản ở các bậc học tiếp theo",
+        "D": "Trong các văn bản pháp luật, không có nội dung nào liên quan đến công việc của người Quản trị mạng và hệ thống"
+      },
+      "answer": ""
+    },
+    {
+      "number": 23,
+      "text": "(11F,H,CC5). Phương án nào sau đây sai khi phát biểu về hệ cơ sở dữ liệu?",
+      "options": {
+        "A": "Cơ sở dữ liệu là tập hợp dữ liệu có liên quan được lưu trên thiết bị nhớ phục vụ cho hoạt động của một cơ quan, đơn vị nào đó",
+        "B": "Tất cả các phần mềm ứng dụng của một cơ quan, đơn vị có thể truy cập trực tiếp đến cơ sở dữ liệu của cơ quan, đơn vị đó",
+        "C": "Hệ quản trị cơ sở dữ liệu có cơ chế kiểm soát nhằm đảm bảo tính đúng đắn cho mỗi thao tác cập nhật và khai thác dữ liệu",
+        "D": "Hệ cơ sở dữ liệu là chỉ một tập hơp gồm: cơ sở dữ liệu, hệ quản trị cơ sở dữ liệu và các phần mềm ứng dụng cơ sở dữ liệu"
+      },
+      "answer": ""
     }
   ],
   "tfQuestions": [
@@ -50,7 +171,7 @@
     },
     {
       "number": 3,
-      "text": "Trong đợt ủng hộ các tỉnh thành khu vực phía Bắc bị ảnh hưởng của bão Yagi, Trung ương Mặt trận tổ quốc Việt Nam đã công bố sao kê tiền ủng hộ thông qua tài khoản của các ngân hàng là một hình thức công khai, minh bạch về huy động các nguồn lực của nhân dân. Trong đó công nghệ OCR là công nghệ giúp chuyển đổi hình ảnh chứa văn bản thành văn bản kỹ thuật số đã được áp dụng để tự động hóa quá trình xử lý sao kê ngân hàng.\nMột số bạn học sinh đưa ra các phát biểu sau:",
+      "text": "Trong đợt ủng hộ các tỉnh thành khu vực phía Bắc bị ảnh hưởng của bão Yagi, Trung ương Mặt trận tổ quốc Việt Nam đã công bố sao kê tiền ủng hộ thông qua tài khoản của các ngân hàng là một hình thức công khai, minh bạch về huy động các nguồn lực của nhân dân. Trong đó công nghệ OCR (Optical Character Recognition -Nhận dạng ký tự quang học) là công nghệ giúp chuyển đổi hình ảnh chứa văn bản (như các tài liệu được quét, hình ảnh chụp từ sách, hóa đơn, sao kê) thành văn bản kỹ thuật số đã được áp dụng để tự động hóa quá trình xử lý sao kê ngân hàng.\nMột số bạn học sinh đưa ra các phát biểu sau:",
       "items": {
         "a": "OCR là công nghệ giúp nhận dạng và trích xuất thông tin từ sao kê ngân hàng bằng cách quét các tài liệu sao kê giấy hoặc ảnh chụp. (D2/C3a-B-CS4) (Đ)",
         "b": "Hệ thống OCR có thể tự động nhận diện chính xác thông tin từ mọi loại sao kê mà không cần được huấn luyện với dữ liệu mẫu từ các định dạng sao kê khác nhau. (D2/C3b-H-CS4) (S)",
@@ -72,7 +193,7 @@
     },
     {
       "number": 5,
-      "text": "Một bạn học sinh muốn tạo trang web giới thiệu về du lịch của thành phố Huế. Trang web sẽ bao gồm ba trang chính là Địa điểm du lịch, Quán ăn, và Lưu trú. Bạn học sinh cần tạo phần đầu trang cho tất cả các trang của website có thanh điều hướng , trong đó mỗi mục liên kết tới một trang trong website.\nVới tình huống trên, một số bạn đưa ra các phát biểu dưới đây:",
+      "text": "Một bạn học sinh muốn tạo trang web giới thiệu về du lịch của thành phố Huế. Trang web sẽ bao gồm ba trang chính là Địa điểm du lịch, Quán ăn, và Lưu trú. Bạn học sinh cần tạo phần đầu trang cho tất cả các trang của website có thanh điều hướng (Menu), trong đó mỗi mục liên kết tới một trang trong website.\nVới tình huống trên, một số bạn đưa ra các phát biểu dưới đây:",
       "items": {
         "a": "Website sẽ bao gồm 3 tệp tin có phần mở rộng là html. (D2/C5a-B-CC3) (Đ)",
         "b": "Thanh điều hướng luôn cố định ở góc trên bên phải của phần đầu trang. (D2/C5b-B-CC3) (S)",
@@ -83,7 +204,7 @@
     },
     {
       "number": 6,
-      "text": "Cơ sở dữ liệu quản lý việc mượn – trả sách của thư viện một trường THPT có tên là QL_THUVIEN, gồm có 3 bảng sau:\n- Bảng HOC_SINH (MaHS, HoTen, NgaySinh, Lop, NamHoc) lưu thông tin về học sinh, gồm: Mã học sinh, họ tên, ngày sinh, lớp, năm học.\n- Bảng SACH (MaSach, TenSach, TacGia, NhaXuatBan, SoTrang) lưu thông tin về các cuốn sách có trong thư viện, gồm: Mã sách, tên sách, tác giả, nhà xuất bản, số trang.\n- Bảng MUON_TRA (MaHS, MaSach, NgayMuon, NgayTra) lưu thông tin về các hoạt động mượn sách.\nTrong trường hợp người đọc làm mất sách phải đền bù gấp 2 lần giá sách.\nMột số bạn học sinh đưa ra các phát biểu sau:\nĐề gốc từ trường THPT Đặng Trần Côn\t\t\t\tGiáo viên thẩm định\nTRẦN THỊ QUẾ VY",
+      "text": "Cơ sở dữ liệu quản lý việc mượn – trả sách của thư viện một trường THPT có tên là QL_THUVIEN, gồm có 3 bảng sau:\n- Bảng HOC_SINH (MaHS, HoTen, NgaySinh, Lop, NamHoc) lưu thông tin về học sinh, gồm: Mã học sinh, họ tên, ngày sinh, lớp, năm học.\n- Bảng SACH (MaSach, TenSach, TacGia, NhaXuatBan, SoTrang) lưu thông tin về các cuốn sách có trong thư viện, gồm: Mã sách, tên sách, tác giả, nhà xuất bản, số trang.\n- Bảng MUON_TRA (MaHS, MaSach, NgayMuon, NgayTra) lưu thông tin về các hoạt động mượn sách.\nTrong trường hợp người đọc làm mất sách phải đền bù gấp 2 lần giá sách.\nMột số bạn học sinh đưa ra các phát biểu sau:",
       "items": {
         "a": "Khoá chính của bảng HOC_SINH là trường Hoten. (D2/C6a-B-AI2) (S)",
         "b": "Để ghi nhận một hoạt động trả sách từ một học sinh, ta cần nhập thông tin NgayTra vào bảng MUON_TRA (D2/C6b-H-AI2) (Đ)",

@@ -6,8 +6,10 @@
       "number": 1,
       "text": "Lĩnh vực nào sau đây không thuộc lĩnh vực nghiên cứu phát phiển AI?",
       "options": {
-        "A": "Xử lý ngôn ngữ tự nhiên\t\t\tB. Thị giác máy tính",
-        "C": "Hệ thống nhúng.\t\t\t\t\tD. Học máy"
+        "A": "Xử lý ngôn ngữ tự nhiên",
+        "B": "Thị giác máy tính",
+        "C": "Hệ thống nhúng",
+        "D": "Học máy"
       },
       "answer": "C"
     },
@@ -15,8 +17,10 @@
       "number": 2,
       "text": "Ứng dụng nào sau đây nói về ứng dụng của AI trong chăm sóc sức khỏe?",
       "options": {
-        "A": "Tạo ra thuốc mới\t\t\tB. Phân tích dữ liệu bệnh nhân để dự đoán bệnh.",
-        "C": "Thay thế bác sĩ\t\t\tD. Lập phác đồ điều trị"
+        "A": "Tạo ra thuốc mới",
+        "B": "Phân tích dữ liệu bệnh nhân để dự đoán bệnh",
+        "C": "Thay thế bác sĩ",
+        "D": "Lập phác đồ điều trị"
       },
       "answer": "B"
     },
@@ -26,7 +30,7 @@
       "options": {
         "A": "Giúp máy tính tính toán có thể thực hiện nhanh các phép toán như con người",
         "B": "Giúp máy tính thực hiện được nhiều phần mềm một lúc",
-        "C": "Giúp máy tính có thể làm những công việc mang tính trí tuệ con người.",
+        "C": "Giúp máy tính có thể làm những công việc mang tính trí tuệ con người",
         "D": "Giúp máy tính tự động xử lí khối lượng lớn dữ liệu rất nhanh và chính xác"
       },
       "answer": "C"
@@ -35,8 +39,10 @@
       "number": 4,
       "text": "Trong một mạng máy tính, điều kiện nào sau đây giúp các máy tính giao tiếp được với nhau?",
       "options": {
-        "A": "Có chung một phần mềm\t\t\t\tB. Có chung một giao thức mạng.",
-        "C": "Có chung một loại cáp\t\t\t\t\tD. Có chung một mạng Internet"
+        "A": "Có chung một phần mềm",
+        "B": "Có chung một giao thức mạng",
+        "C": "Có chung một loại cáp",
+        "D": "Có chung một mạng Internet"
       },
       "answer": "B"
     },
@@ -45,7 +51,7 @@
       "text": "Phát biểu nào sau đây, giải thích đúng về các loại mạng máy tính?",
       "options": {
         "A": "LAN là loại mạng kết nối các thiết bị khác nhau có phạm vi địa lý rộng lớn, như một thành phố, một quốc gia",
-        "B": "WLAN là mạng cục bộ sử dụng công nghệ không dây, cho phép kết nối các thiết bị mà không cần sử dụng dây cáp.",
+        "B": "WLAN là mạng cục bộ sử dụng công nghệ không dây, cho phép kết nối các thiết bị mà không cần sử dụng dây cáp",
         "C": "WAN là mạng kết nối những máy tính và các thiết bị số trong một phạm vi nhỏ như phòng thực hành",
         "D": "Internet là mạng máy tính chỉ cho phép các máy tính và thiết bị khác kết nối trong phạm vi một quốc gia"
       },
@@ -55,8 +61,10 @@
       "number": 6,
       "text": "Một công ty muốn triển khai một hệ thống mạng nội bộ để nhân viên có thể chia sẻ tài liệu và giao tiếp hiệu quả. Vai trò và chức năng của giao thức mạng nào sau đây KHÔNG được sử dụng để thực hiện nhiệm vụ này?",
       "options": {
-        "A": "Định tuyến và chuyển tiếp dữ liệu\t\tB. Mã hóa và bảo mật dữ liệu",
-        "C": "Quản lý và phân bổ địa chỉ IP\t\t\tD. Cung cấp các dịch vụ ứng dụng."
+        "A": "Định tuyến và chuyển tiếp dữ liệu",
+        "B": "Mã hóa và bảo mật dữ liệu",
+        "C": "Quản lý và phân bổ địa chỉ IP",
+        "D": "Cung cấp các dịch vụ ứng dụng"
       },
       "answer": "D"
     },
@@ -65,7 +73,7 @@
       "text": "Trường hợp nào sau đây thể hiện hành vi có tính nhân văn trong không gian mạng?",
       "options": {
         "A": "Chia sẻ thông tin cá nhân của người khác khi chưa được phép",
-        "B": "Ngăn chặn việc phát tán các video có nội dung không phù hợp.",
+        "B": "Ngăn chặn việc phát tán các video có nội dung không phù hợp",
         "C": "Sử dụng ngôn từ thô tục hoặc khiêu khích",
         "D": "Chia sẽ các bài đăng ảnh hưởng danh dự của người khác mà chưa kiểm tra tính chính xác"
       },
@@ -77,23 +85,17 @@
       "options": {
         "A": "Chia sẻ tất cả thông tin của cá nhân cho nguời quen",
         "B": "Bảo vệ tài khoản cá nhân trên mạng",
-        "C": "Truy cập bất cứ liên kết nào nhận được.",
+        "C": "Truy cập bất cứ liên kết nào nhận được",
         "D": "Thể hiện sự đồng cảm và lắng nghe ý kiến khác"
       },
       "answer": "B"
-    },
-    {
-      "number": 9,
-      "text": "Câu 9",
-      "options": {},
-      "answer": "C"
     },
     {
       "number": 10,
       "text": "Việc nào sau đây không phải là công việc của kĩ sư quản trị mạng phải làm?",
       "options": {
         "A": "Quản lí thiết bị mạng, vận hành mạng",
-        "B": "Cài đặt các phần mềm lập trình mạng.",
+        "B": "Cài đặt các phần mềm lập trình mạng",
         "C": "Bảo vệ mạng trước các nguy cơ bị tấn công",
         "D": "Khắc phục sự cố mạng"
       },
@@ -103,7 +105,7 @@
       "number": 11,
       "text": "Kỹ năng nào sau đây là quan trọng nhất đối với một kỹ sư an toàn thông tin?",
       "options": {
-        "A": "Cài đặt và cập nhật phần mềm để đảm bảo người dùng luôn sử dụng phiên bản mới nhất",
+        "A": "Cài đặt và cập nhật phần mềm để đảm bảo người dùng luôn sử dụng phiên bản mới nhất\nB. Tối ưu hiệu suất mạng nhằm cải thiện tốc độ truy cập cho người dùng\nC. Xây dựng và duy trì các giải pháp an toàn dữ liệu, bảo mật thông tin",
         "D": "Cài đặt thiết bị phần cứng và thiết lập hệ thống mạng máy tính"
       },
       "answer": "C"
@@ -112,7 +114,7 @@
       "number": 12,
       "text": "Bạn muốn trở thành một chuyên viên thiết kế đồ họa, khi đó bạn cần có những kỹ năng và kiến thức nào trong các phương án sau?",
       "options": {
-        "A": "Kiến thức về các phần mềm thiết kế đồ họa như Photoshop, Illustrator và khả năng hội họa, chụp ảnh.",
+        "A": "Kiến thức về các phần mềm thiết kế đồ họa như Photoshop, Illustrator và khả năng hội họa, chụp ảnh",
         "B": "Kiến thức về các phần mềm thiết kế đồ họa như Autocad, SolidWorks và khả năng hội họa",
         "C": "Kiến thức về các phần mềm thiết kế đồ họa như MATLAB, Simulink, Word và khả năng chụp ảnh",
         "D": "Kiến thức về các phần mềm thiết kế đồ họa như Microsoft Excel, Word và khả năng hội họa, chụp ảnh"
@@ -122,17 +124,17 @@
     {
       "number": 13,
       "text": "Phần nào sau đây của tài liệu HTML chứa nội dung sẽ hiển thị trên màn hình của trình duyệt web?",
-      "options": {
-        "A": "Phần đầu\t\t\t\t\t\t\tB. Phần meta",
-        "C": "Phần thân.\t\t\t\t\t\t\tD. Phần chân"
-      },
+      "options": {},
       "answer": "C"
     },
     {
       "number": 14,
       "text": "Phương án nào sau đây là số lượng cấp tiêu đề mục mà ngôn ngữ HTML hỗ trợ?",
       "options": {
-        "A": "4\t\t\tB. 5\t\t\tC. 6\t\t\tD. 7"
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
       },
       "answer": "C"
     },
@@ -140,7 +142,10 @@
       "number": 15,
       "text": "Thẻ nào dưới đây được sử dụng để chèn âm thanh vào trang web?",
       "options": {
-        "A": "<img>\t\tB. <audio>.\t\tC. <video>\t\tD. <iframe>"
+        "A": "<img>",
+        "B": "<audio>",
+        "C": "<video>",
+        "D": "<iframe>"
       },
       "answer": "B"
     },
@@ -148,7 +153,7 @@
       "number": 16,
       "text": "Phát biểu nào sau đây nêu đúng mục đích sử dụng css?",
       "options": {
-        "A": "Khai báo kiểu trình bày các phần tử HTML.",
+        "A": "Khai báo kiểu trình bày các phần tử HTML",
         "B": "Thêm hiệu ứng động và tương tác vào trang web",
         "C": "Xác định cấu trúc và nội dung của trang web",
         "D": "Kiểm soát dữ liệu đầu vào trên trang web"
@@ -162,16 +167,16 @@
         "A": "Là ngôn ngữ được sử dụng để khai báo kiểu trình bày các phần tử HTML trong trang web",
         "B": "external CSS (CSS ngoài) thường được sử dụng khi cần áp dụng chung bảng định dạng cho nhiều văn bản HTML",
         "C": "Có 2 cách khai báo để áp dụng CSS trong văn bản HTML được sử dụng phổ biến là external CSS và internal CSS",
-        "D": "internal CSS (CSS trong) được viết trong cặp thẻ <style> </style> và được đặt trong cặp thẻ <body> </body>."
+        "D": "internal CSS (CSS trong) được viết trong cặp thẻ <style> </style> và được đặt trong cặp thẻ <body> </body>"
       },
       "answer": "D"
     },
     {
       "number": 18,
-      "text": "Trong văn bản HTML, để tạo biểu mẫu , phương án nào sau thể hiện đúng mục đích của thuộc tính action?",
+      "text": "Trong văn bản HTML, để tạo biểu mẫu (form), phương án nào sau thể hiện đúng mục đích của thuộc tính action?",
       "options": {
         "A": "Xác định phương thức gửi dữ liệu đến máy chủ để xử lí",
-        "B": "Xác định tài nguyên web sẽ tiếp nhận và xử lí dữ liệu mà người dùng vừa gửi đến máy chủ.",
+        "B": "Xác định tài nguyên web sẽ tiếp nhận và xử lí dữ liệu mà người dùng vừa gửi đến máy chủ",
         "C": "Xác định khai báo điều khiển nhập dữ liệu kí tự trên nhiều dòng trong biểu mẫu",
         "D": "Xác định khai báo các mục lựa chọn cho phép người dùng chọn nhiều lựa chọn trong biểu mẫu"
       },
@@ -184,7 +189,7 @@
         "A": "Trong khai báo, trước Tên_bộ_chọn_lớp là dấu chấm (#) và nó cho dùng để định dạng cho nhiều phần tử",
         "B": "Bộ chọn lớp thường được dùng để khai báo các quy tắc định dạng được áp dụng cho một phần tử trong văn bản HTML",
         "C": "Trong khai báo, trước Tên_bộ_chọn_lớp là dấu chấm (;), sau tên lớp là nhiều thuộc tính",
-        "D": "Bộ chọn lớp thường được dùng để khai báo các quy tắc định dạng được áp dụng chung cho nhiều phần tử trong văn bản HTML."
+        "D": "Bộ chọn lớp thường được dùng để khai báo các quy tắc định dạng được áp dụng chung cho nhiều phần tử trong văn bản HTML"
       },
       "answer": "D"
     },
@@ -195,7 +200,7 @@
         "A": "<img alt=\"ảnh hoa phượng\" \"hoaphuong.jpg\"width=\"150\" height=\"200\">",
         "B": "<img href=\"hoaphuong.jpg\" alt=\"ảnh hoa phượng\" width=\"150\" height=\"200\">",
         "C": "<img link=\"hoaphuong.jpg\" alt=\"ảnh hoa phượng\" width=\"150\" height=\"200\">",
-        "D": "<img src=\"hoaphuong.jpg\" alt=\"ảnh hoa phượng\" width=\"150\" height=\"200\">."
+        "D": "<img src=\"hoaphuong.jpg\" alt=\"ảnh hoa phượng\" width=\"150\" height=\"200\">"
       },
       "answer": "D"
     },
@@ -203,7 +208,7 @@
       "number": 21,
       "text": "Trong ngôn ngữ HTML, để khai báo việc tạo liên kết đến địa chỉ của trang web https://www.hoc10.vn ta chọn cách nào sau đây?",
       "options": {
-        "A": "<a href=\"https://www.hoc10.vn\"> Trang web học tập </a>.",
+        "A": "<a href=\"https://www.hoc10.vn\"> Trang web học tập </a>",
         "B": "<a src=\"https://www.hoc10.vn\"> Trang web học tập </a>",
         "C": "<a href=https://www.hoc10.vn> “Trang web học tập” </a>",
         "D": "<a src=https://www.hoc10.vn> “Trang web học tập” </a>"
@@ -216,7 +221,7 @@
       "options": {
         "A": "<audio href=\"meyeucon.mp4\" controls> </audio>",
         "B": "<audio src=\"meyeucon.mp4\" controls> </audio>",
-        "C": "<video src=\"meyeucon.mp4\" controls> </video>.",
+        "C": "<video src=\"meyeucon.mp4\" controls> </video>",
         "D": "<video href=\"meyeucon.mp4\" controls> </video>"
       },
       "answer": "C"
@@ -226,7 +231,7 @@
       "text": "Bình thực hiện tạo biểu mẫu dạng lựa chọn cho người dùng chọn lựa một mục trong danh sách gợi ý như hình dưới vào trang web bằng ngôn ngữ HTML. Thao tác khai báo nào sau đây của Bình để tạo nút chọn Lớp 10 là đúng?",
       "options": {
         "A": "<input type= \"radio\" name=\"Khoi\" value=\"Lớp 10\"> 10",
-        "B": "<input type= \"radio\" name=\"Khoi\" value=\"Lớp 10\">Lớp 10.",
+        "B": "<input type= \"radio\" name=\"Khoi\" value=\"Lớp 10\">Lớp 10",
         "C": "<input type= \"checkbox\" name=\"Khoi\" value=\"Lớp 10\"> 10",
         "D": "<input type= \"checkbox\" name=\"Khoi\" value=\"Lớp 10\"> Lớp 10"
       },
@@ -236,22 +241,22 @@
       "number": 24,
       "text": "Trong bảng định dạng CSS, khai báo nào dưới đây là đúng cho bộ chọn của các phần tử p, h2 có định dạng chữ màu đỏ, in đậm, cỡ chữ 20px.",
       "options": {
-        "A": "<style> p, h2 {font-weight: bold; color: red; font-size: 20px;} </style>.",
+        "A": "<style> p, h2 {font-weight: bold; color: red; font-size: 20px;} </style>",
         "B": "<style> p; h2 {font-w4eight: bold; color: red; font-size: 20px;} </style>",
         "C": "<style> p, h2 {font-style; bold: color; red: font-size; 20px:} </style>",
         "D": "<style> p; h2 {font-style: bold; color: red; font-size: 20px} </style>"
       },
-      "answer": "A"
+      "answer": ""
     }
   ],
   "tfQuestions": [
     {
       "number": 1,
-      "text": "Để quản lý việc mượn và trả sách của học sinh, thư viện của nhà trường xây dựng một phần mềm quản lí thư viện trong đó có cơ sở dữ liệu quan hệ gồm ba bảng có cấu trúc như sau:\n- Bảng SACH (MaSach, TenSach, TenTacGia, SoTrang) gồm các thông tin: mã sách, tên sách, tên tác giả, số trang.\n- Bảng HOCSINH (MaHS, TenHS, Lop) gồm các thông tin: mã học sinh, tên học sinh, lớp.\n- Bảng QLMUON (MaHS, MaSach, NgayMuon, NgayTra) gồm các thông tin quản lý mượn trả như: mã học sinh, mã sách, ngày mượn, ngày trả.\nSau khi tìm hiểu dữ liệu của phần mềm, một số bạn học sinh có các ý kiến như sau:\nSELECT [MaSach], [TenSach], [SoTrang]\nFROM SACH\nWHERE [TenTacGia]=”Nguyễn Nhật Ánh”\n(V-Đ)",
+      "text": "Để quản lý việc mượn và trả sách của học sinh, thư viện của nhà trường xây dựng một phần mềm quản lí thư viện trong đó có cơ sở dữ liệu quan hệ gồm ba bảng có cấu trúc như sau:\n- Bảng SACH (MaSach, TenSach, TenTacGia, SoTrang) gồm các thông tin: mã sách, tên sách, tên tác giả, số trang.\n- Bảng HOCSINH (MaHS, TenHS, Lop) gồm các thông tin: mã học sinh, tên học sinh, lớp.\n- Bảng QLMUON (MaHS, MaSach, NgayMuon, NgayTra) gồm các thông tin quản lý mượn trả như: mã học sinh, mã sách, ngày mượn, ngày trả.\nSau khi tìm hiểu dữ liệu của phần mềm, một số bạn học sinh có các ý kiến như sau:",
       "items": {
-        "a": ". Trong hệ CSDL quan hệ, các đối tượng như MaSach, TenSach, Lop… được gọi là “thuộc tính”.",
-        "b": ". Để thực hiện việc cập nhật dữ liệu, người ta thực hiện các thao tác thêm, xoá, sửa, sắp xếp, tìm kiếm trên dữ liệu trong các bảng.",
-        "c": ". Trong từng cuốn sách, để mô tả chi tiết thông tin của tác giả như: Họ và tên, tiểu sử, trình độ chuyên môn, …, ta cần tạo thêm bảng Tác giả để hạn chế việc dư thừa dữ liệu.",
+        "a": ". Trong hệ CSDL quan hệ, các đối tượng như MaSach, TenSach, Lop… được gọi là “thuộc tính”. (B-Đ)",
+        "b": ". Để thực hiện việc cập nhật dữ liệu, người ta thực hiện các thao tác thêm, xoá, sửa, sắp xếp, tìm kiếm trên dữ liệu trong các bảng. (B-S)",
+        "c": ". Trong từng cuốn sách, để mô tả chi tiết thông tin của tác giả như: Họ và tên, tiểu sử, trình độ chuyên môn, …, ta cần tạo thêm bảng Tác giả để hạn chế việc dư thừa dữ liệu. (H-Đ)",
         "d": ". Để thực hiện truy vấn thông tin về sách của tác giả Nguyễn Nhật Ánh, người ta sử dụng câu lệnh sau trong SQL:"
       },
       "answers": {
@@ -263,11 +268,11 @@
     },
     {
       "number": 2,
-      "text": "Trong tiết thực hành tạo trang web đơn giản, nhóm bạn lớp 12/1 quyết định tạo trang web cho lớp với mục đích lan tỏa những câu chuyện về người tốt, việc tốt, những hành ảnh đẹp và các bạn học tốt trong lớp của mình. Trong khi thảo luận các em thống nhất trong trang web phải gồm các thành phần như: tiêu đề, hình ảnh, thông tin cá nhân của người thật việc thật nhằm giúp trang web được sinh động hơn.  Để tạo ra trang web này các bạn sử dụng ngôn ngữ HTML và sử dụng máy của phòng thực hành để tạo trang web.\nSau khi thảo luận, xem xét nội dung trên, một số bạn học sinh đưa ra các ý kiến sau:\n<html><head><title></title></head><body></body></html>\nTrong phần tử title ta sẽ khai báo tiêu đề (ví dụ: Những tấm gương sáng của lớp 12/1) và phần tử body khai báo phần nội dung trên.\n(V-Đ)\nB. Phần riêng\nThí sinh chỉ chọn một trong hai phần sau: Thí sinh theo định hướng Khoa học máy tính làm câu 3 và 4; Thí sinh theo định hướng Tin học ứng dụng làm câu 5 và 6.",
+      "text": "Trong tiết thực hành tạo trang web đơn giản, nhóm bạn lớp 12/1 quyết định tạo trang web cho lớp với mục đích lan tỏa những câu chuyện về người tốt, việc tốt, những hành ảnh đẹp và các bạn học tốt trong lớp của mình. Trong khi thảo luận các em thống nhất trong trang web phải gồm các thành phần như: tiêu đề, hình ảnh, thông tin cá nhân (gồm họ tên, ngày sinh, địa chỉ, sđt, …) của người thật việc thật nhằm giúp trang web được sinh động hơn.  Để tạo ra trang web này các bạn sử dụng ngôn ngữ HTML và sử dụng máy của phòng thực hành để tạo trang web.\nSau khi thảo luận, xem xét nội dung trên, một số bạn học sinh đưa ra các ý kiến sau:",
       "items": {
-        "a": ". Nhờ có không gian mạng mà mọi người có thể biết được những người tốt quanh ta, giúp lan tỏa được những việc tốt trong cuộc sống.",
-        "b": ". Các máy tính trong phòng thực hành không cần kết nối mạng vẫn có thể truy cập được trang web này.",
-        "c": ". Không nên đưa đầy đủ thông tin cá nhân của các bạn lên trang web.",
+        "a": ". Nhờ có không gian mạng mà mọi người có thể biết được những người tốt quanh ta, giúp lan tỏa được những việc tốt trong cuộc sống. (B-Đ)",
+        "b": ". Các máy tính trong phòng thực hành không cần kết nối mạng vẫn có thể truy cập được trang web này. (H-S)",
+        "c": ". Không nên đưa đầy đủ thông tin cá nhân của các bạn lên trang web. (B-Đ)",
         "d": ". Để xây dựng trang web ta cần dựa vào cấu trúc văn bản HTML sau:"
       },
       "answers": {
@@ -281,10 +286,10 @@
       "number": 3,
       "text": "Tiktok là một nền tảng video, âm nhạc và mạng xã hội, với số lượng người dùng rất lớn và nội dung các video, âm nhạc đa dạng. Khi người dùng tạo tài khoản, Tiktok yêu cầu chọn sở thích của bạn và sau đó sẽ đề xuất các video theo sở thích đó. Sau khi người dùng bắt đầu xem các video, hành vi của người dùng bắt đầu được thu thập. Các video người dùng mới xem, có like, xem hết video hay bỏ qua, … sẽ được hệ thống này ghi nhận lại.\nVới vấn đề nêu trên, một số bạn học sinh đưa các ý kiến sau:",
       "items": {
-        "a": "Tiktok có thể gợi ý các video cho người dùng mới.",
-        "b": "Phân nhóm người dùng của Ticktok dựa trên hành vi là học máy có giám sát.",
-        "c": "Danh sách các video khi người dùng lướt để xem sẽ giống nhau đối với tất cả người dùng.",
-        "d": "Sau một thời gian người dùng sử dụng, Tiktok sẽ phân các nhóm người dùng và mỗi nhóm sẽ được Tiktok đưa danh sách các video hoàn toàn giống nhau."
+        "a": "Tiktok có thể gợi ý các video cho người dùng mới. (B-Đ)",
+        "b": "Phân nhóm người dùng của Ticktok dựa trên hành vi là học máy có giám sát. (H-Đ)",
+        "c": "Danh sách các video khi người dùng lướt để xem sẽ giống nhau đối với tất cả người dùng. (H-S)",
+        "d": "Sau một thời gian người dùng sử dụng, Tiktok sẽ phân các nhóm người dùng và mỗi nhóm sẽ được Tiktok đưa danh sách các video hoàn toàn giống nhau. (V-S)"
       },
       "answers": {
         "a": true,
@@ -297,10 +302,10 @@
       "number": 4,
       "text": "Thuật toán sau đây trong Python hoặc C++ thể hiện thuật toán tìm kiếm:\nMột số bạn học sinh đưa nhận xét về thuật toán trên như sau:",
       "items": {
-        "a": "Thuật toán sử dụng mảng A để lưu trữ các phần tử cần tìm kiếm.",
-        "b": "Đây là thuật toán tìm kiếm nhị phân và yêu cầu mảng A phải được sắp xếp theo thứ tự tăng dần.",
-        "c": "Cho mảng A=[1, 4, 5, 7, 9, 12, 15, 23, 25, 45, 50] và k=12. Trong trường hợp này, số lần máy tính kiểm tra để tìm ra số k (A[g]==k) là 3 lần.",
-        "d": "Lớp 12A có danh sách các bạn không cùng tên học phụ đạo môn Toán, giáo viên chủ nhiệm đã lưu tên các học sinh vào một danh sách A. Giả sử A=[“An”, “Bình”, “Bửu”,“Cẩm”,”Hạnh”,”Hằng”,”Huy”, “Khánh”, “Linh”,”Minh”,”Nam”,”Nhi”,”Trân]. Giáo viên chủ nhiệm đã dùng hàm trên để tìm vị trí của học sinh tên “Hạnh” (k=”Hạnh”), lúc đó kết quả tìm thấy là 5."
+        "a": "Thuật toán sử dụng mảng A để lưu trữ các phần tử cần tìm kiếm. (B-Đ)",
+        "b": "Đây là thuật toán tìm kiếm nhị phân và yêu cầu mảng A phải được sắp xếp theo thứ tự tăng dần. (H-Đ)",
+        "c": "Cho mảng A=[1, 4, 5, 7, 9, 12, 15, 23, 25, 45, 50] và k=12. Trong trường hợp này, số lần máy tính kiểm tra để tìm ra số k (A[g]==k) là 3 lần. (H-S)",
+        "d": "Lớp 12A có danh sách các bạn không cùng tên học phụ đạo môn Toán, giáo viên chủ nhiệm đã lưu tên các học sinh vào một danh sách A. Giả sử A=[“An”, “Bình”, “Bửu”,“Cẩm”,”Hạnh”,”Hằng”,”Huy”, “Khánh”, “Linh”,”Minh”,”Nam”,”Nhi”,”Trân]. Giáo viên chủ nhiệm đã dùng hàm trên để tìm vị trí của học sinh tên “Hạnh” (k=”Hạnh”), lúc đó kết quả tìm thấy là 5. (V-S)"
       },
       "answers": {
         "a": true,
@@ -311,11 +316,11 @@
     },
     {
       "number": 5,
-      "text": "Để quản lí việc bán hàng cho một cửa hàng tạp hoá Sơn Trường ở thị trấn Sịa, người ta xây dựng một phần mềm với cơ sở dữ liệu gồm nhiều bảng, trong đó có 3 bảng có cấu trúc như sau:\n- Bảng KHACHHANG gồm MAKH, TEN, DIACHI, SDTHOAI (mã khách hàng, tên khách hàng, địa chỉ, số điện thoại).\n- Bảng MATHANG gồm MAMH, TENMH, DVTINH, DONGIA (mã mặt hàng, tên mặt hàng, đơn vị tính, đơn giá).\n- Bảng HOADON gồm MAHD, MAKH, MAMH, SOLUONG, NGAYMUA (mã hóa đơn, mã khách hàng, mã hàng hóa, số lượng, đơn giá).\nSau khi tìm hiểu dữ liệu của phần mềm, các bạn học sinh đã đưa ra các nhận xét sau đây:\nSELECT [KHACH HANG].MaKH, [KHACH HANG].Hoten, [KHACH HANG].Diachi, [KHACH HANG].SDT, [HOA DON].NgayGH\nFROM [KHACH HANG] ON [HOA DON] INNER JOIN [KHACH HANG].MaKH = [HOA DON].MaKH\nWHERE ((([HOA DON].NgayGH)=#1/1/2024#));\n(V-S)",
+      "text": "Để quản lí việc bán hàng cho một cửa hàng tạp hoá Sơn Trường ở thị trấn Sịa, người ta xây dựng một phần mềm với cơ sở dữ liệu gồm nhiều bảng, trong đó có 3 bảng có cấu trúc như sau:\n- Bảng KHACHHANG gồm MAKH, TEN, DIACHI, SDTHOAI (mã khách hàng, tên khách hàng, địa chỉ, số điện thoại).\n- Bảng MATHANG gồm MAMH, TENMH, DVTINH, DONGIA (mã mặt hàng, tên mặt hàng, đơn vị tính, đơn giá).\n- Bảng HOADON gồm MAHD, MAKH, MAMH, SOLUONG, NGAYMUA (mã hóa đơn, mã khách hàng, mã hàng hóa, số lượng, đơn giá).\nSau khi tìm hiểu dữ liệu của phần mềm, các bạn học sinh đã đưa ra các nhận xét sau đây:",
       "items": {
-        "a": ". Trường DONGIA thường có kiểu dữ liệu là Short Text.",
-        "b": ". Nên chọn trường MAKH là khoá chính của bảng KHACHHANG.",
-        "c": ". Nên sử dụng hệ cơ sở dữ liệu phân tán để xây dựng cơ sở dữ liệu trên.",
+        "a": ". Trường DONGIA thường có kiểu dữ liệu là Short Text. (B-S)",
+        "b": ". Nên chọn trường MAKH là khoá chính của bảng KHACHHANG. (B-Đ)",
+        "c": ". Nên sử dụng hệ cơ sở dữ liệu phân tán để xây dựng cơ sở dữ liệu trên. (H-S)",
         "d": ". Để thực hiện truy vấn thông tin những khách mua hàng vào ngày 01/01/2024, người ta sử dụng câu lệnh sau trong SQL."
       },
       "answers": {
@@ -329,10 +334,10 @@
       "number": 6,
       "text": "Ba mẹ của học sinh Dung sở hữu một cơ sở sản xuất thủ công mỹ nghệ mây tre đan. Để tìm kiếm và mở rộng thị trường tiêu thụ, ba mẹ nhờ Dung và một số bạn cùng lớp sử dụng phần mềm tạo trang web để tạo một website giới thiệu quảng bá về sản phẩm gồm 3 trang: Trang chủ, trang giới thiêu, trang liên hệ. Dung và các bạn muốn tạo phần đầu trang có biểu ngữ, logo và thanh điều hướng để liên kết 3 trang web trong website lại với nhau. Các bạn học sinh đưa ra các nhận định như sau:",
       "items": {
-        "a": ". Thanh điều hướng chỉ chứa trong trang chủ, các trang khác không có thanh điều hướng.",
-        "b": ". Chỉ có thể sử dụng các hình ảnh được lưu sẵn trong máy tính để đưa vào trang web.",
-        "c": ". Nội dung trang web thường giới thiệu về sản phẩm, dịch vụ, hay tin tức, ….",
-        "d": ". Sau khi thiết kế xong website bằng một phần mềm tạo web, nếu muốn khách hàng vào tra cứu và nắm bắt thông tin trong website này thì Dung phải xuất bản website này ra một địa chỉ trên internet."
+        "a": ". Thanh điều hướng chỉ chứa trong trang chủ, các trang khác không có thanh điều hướng.  (B-S)",
+        "b": ". Chỉ có thể sử dụng các hình ảnh được lưu sẵn trong máy tính để đưa vào trang web. (B-S)",
+        "c": ". Nội dung trang web thường giới thiệu về sản phẩm, dịch vụ, hay tin tức, ….   (H-Đ)",
+        "d": ". Sau khi thiết kế xong website bằng một phần mềm tạo web, nếu muốn khách hàng vào tra cứu và nắm bắt thông tin trong website này thì Dung phải xuất bản website này ra một địa chỉ trên internet. (V-Đ)"
       },
       "answers": {
         "a": false,

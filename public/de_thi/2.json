@@ -1,23 +1,40 @@
 {
   "id": 2,
   "title": "Đề 2",
-  "mcQuestions": [],
-  "tfQuestions": [
+  "mcQuestions": [
     {
-      "number": 1,
-      "text": "Câu 1",
-      "items": {},
-      "answers": {
-        "a": true,
-        "b": true,
-        "c": true,
-        "d": false
-      }
+      "number": 10,
+      "text": "-B-CC3. Cặp thẻ HTML nào sau đây được dùng để nhấn mạnh văn bản quan trọng bằng cách tạo bôi đậm?",
+      "options": {
+        "A": "<important> </important>",
+        "B": "<strong> </strong>",
+        "C": "<mark> </mark>",
+        "D": "<em> </em>"
+      },
+      "answer": ""
     },
     {
+      "number": 19,
+      "text": "-B-BC5. Phương án nào sau đây được xem là Một vấn đề tiềm ẩn của giao tiếp qua không gian mạng?",
+      "options": {
+        "A": "Tăng cường khả năng làm việc nhóm",
+        "B": "Tăng nguy cơ bị quấy rối, bắt nạt",
+        "C": "Tăng cường sự sáng tạo",
+        "D": "Tăng tốc độ truyền thông tin"
+      },
+      "answer": ""
+    }
+  ],
+  "tfQuestions": [
+    {
       "number": 3,
-      "text": "Trong một lần xếp hàng chào cờ, cô giáo chủ nhiệm lớp 11/1 yêu cầu các em học sinh sắp xếp theo thứ tự chiều cao không giảm. Để tránh tình trạng mất trật tự, cô giáo đã yêu cầu các bạn ghi số thứ tự và chiều cao của mình vào một tờ giấy nộp lại cho Huy, sau đó nhờ Huy viết một chương trình giúp cô sắp xếp thứ tự chiều cao của các bạn theo chiều không giảm .\nHuy đã viết chương trình như sau:\nMột số bạn đã đưa ra các phát biểu sau:\na. (D2-C3a-B-CC1): Trong Tin học, bài toán cô đưa ra có thể sử dụng một danh sách (list) để lưu trữ chiều cao của các bạn trong hàng cần sắp xếp. (B-Đúng)\nb. (D2-C3b-H-CC1): Chương trình Huy viết đã sử dụng thuật toán nổi bọt để sắp xếp theo chiều không giảm nên đáp ứng được yêu cầu của cô giáo. (H.Đúng)\nc. (D2-C3c-V-CC1): Giáo viên môn Toán muốn sắp xếp điểm kiểm tra cuối kì môn Toán theo chiều điểm bạn nào cao được sắp trước (tức là người xếp sau không thể thấp điểm hơn người đứng trước). Huy nói rằng có thể sử dụng chương trình trên mà không cần sửa đổi bất cứ câu lệnh nào. (V-Sai)\nd. (D2-C3d-B-CC1): Với bộ dữ liệu a=[155,167,158,164,172], ở lần thực hiện đầu tiên, kết quả sau khi sắp xếp, giá trị danh sa=[155, 158, 167, 164, 172]. (V-Sai)",
-      "items": {},
+      "text": "Trong một lần xếp hàng chào cờ, cô giáo chủ nhiệm lớp 11/1 yêu cầu các em học sinh sắp xếp theo thứ tự chiều cao không giảm. Để tránh tình trạng mất trật tự, cô giáo đã yêu cầu các bạn ghi số thứ tự và chiều cao (tính bằng đơn vị cm) của mình vào một tờ giấy nộp lại cho Huy, sau đó nhờ Huy viết một chương trình giúp cô sắp xếp thứ tự chiều cao của các bạn theo chiều không giảm (bạn đứng trước không được cao hơn bạn đứng sau).\nHuy đã viết chương trình như sau:\nMột số bạn đã đưa ra các phát biểu sau:",
+      "items": {
+        "a": "(D2-C3a-B-CC1): Trong Tin học, bài toán cô đưa ra có thể sử dụng một danh sách (list) để lưu trữ chiều cao của các bạn trong hàng cần sắp xếp. (B-Đúng)",
+        "b": "(D2-C3b-H-CC1): Chương trình Huy viết đã sử dụng thuật toán nổi bọt để sắp xếp theo chiều không giảm nên đáp ứng được yêu cầu của cô giáo. (H.Đúng)",
+        "c": "(D2-C3c-V-CC1): Giáo viên môn Toán muốn sắp xếp điểm kiểm tra cuối kì môn Toán theo chiều điểm bạn nào cao được sắp trước (tức là người xếp sau không thể thấp điểm hơn người đứng trước). Huy nói rằng có thể sử dụng chương trình trên mà không cần sửa đổi bất cứ câu lệnh nào. (V-Sai)",
+        "d": "(D2-C3d-B-CC1): Với bộ dữ liệu a=[155,167,158,164,172], ở lần thực hiện đầu tiên, kết quả sau khi sắp xếp, giá trị danh sa=[155, 158, 167, 164, 172]. (V-Sai)"
+      },
       "answers": {
         "a": true,
         "b": true,
@@ -27,11 +44,11 @@
     },
     {
       "number": 4,
-      "text": ":\nHệ thống thư điện tử được chia thành 2 loại là thư rác gọi là “spam” và thư thường, gọi là “no spam”. Để xây dựng các bộ lọc thư rác dựa trên học máy, cần thu thập số lượng email đủ lớn đã được gán nhãn và chia tập email này thành hai tập: tập thứ nhất cho huấn luyện mô hình, tập thứ hai để kiểm thử mô hình. Hai tiêu chí sau để đánh giá mức độ sai số của một ứng dụng lọc email:\nTC1 =Số email rác trong hòm thư thường/Tổng số email trong hòm thư thường\nTC2 = Số email thường trong hòm thư rác/Tổng số email trong hòm thư rác.\nSau khi đọc nhận xét trên, một số bạn đã đưa ra các phát biểu sau:",
+      "text": "( D2/C4a-B-CS4; D2/C4b-H- CS4; D2/C4c-H- CS4;  D2/C4d-V- CS4):\nHệ thống thư điện tử được chia thành 2 loại là thư rác gọi là “spam” và thư thường, gọi là “no spam”. Để xây dựng các bộ lọc thư rác dựa trên học máy, cần thu thập số lượng email đủ lớn đã được gán nhãn và chia tập email này thành hai tập: tập thứ nhất cho huấn luyện mô hình, tập thứ hai để kiểm thử mô hình. Hai tiêu chí sau để đánh giá mức độ sai số của một ứng dụng lọc email:\nTC1 =Số email rác trong hòm thư thường/Tổng số email trong hòm thư thường\nTC2 = Số email thường trong hòm thư rác/Tổng số email trong hòm thư rác.\nSau khi đọc nhận xét trên, một số bạn đã đưa ra các phát biểu sau:",
       "items": {
-        "a": "Bước đầu tiên của quy trình học máy là “Thu thập dữ liệu”.",
+        "a": "Bước đầu tiên của quy trình học máy là “Thu thập dữ liệu”. (B-Đúng)",
         "b": "Giá trị của cả TC1 và TC2 càng thấp thì mô hình học máy của bài toán trên được đánh giá càng tốt (H-Đúng).",
-        "c": "Bài toán lọc thư ở trên là loại học máy “Học có giám sát” vì dữ liệu của nó có dán nhãn là “spam” và “no spam”.",
+        "c": "Bài toán lọc thư ở trên là loại học máy “Học có giám sát” vì dữ liệu của nó có dán nhãn là “spam” và “no spam”. (H-Đúng)",
         "d": "Khi một công ty thời trang muốn tìm hiểu khách hàng cũ về: độ tuổi, giới tính, sản phẩm đã mua, để đưa ra chiến lược tiếp cận bán hàng đối với khách hàng mới được tốt hơn, khi đó công ty này có thể sử dụng mô hình huấn luyện học máy của bài toán toán lọc thư rác ở trên. (V-Sai)."
       },
       "answers": {
@@ -43,12 +60,12 @@
     },
     {
       "number": 5,
-      "text": ":\nĐể quản lý việc mượn trả sách ở thư viện trường THPT Đặng Huy Trứ, cô thủ thư đã nhờ các bạn trong câu lạc bộ “Em yêu lập trình” của trường tạo một CSDL gồm 3 bảng:\nBANGSACH(Masach, Tensach, Theloai, TenTG, NhaXB, NamXB)\nBANGHOCSINH(Mathe, Hoten, Ngaysinh, Lop, SĐT)\nBANGMUONTRA(IDmuon, Mathe, Masach, Ngaymuon, Ngaytra)\nTrong đó: BANGSACH lưu các thông tin của các cuốn sách có trong thư viện gồm: mã sách, tên sách, thể loại, tên tác giả, nhà xuất bản, năm xuất bản. BANGHOCSINH lưu các thông tin của học sinh làm thẻ gồm: mã thẻ, họ tên, ngày sinh, lớp, số điện thoại. BANGMUONSACH lưu các thông tin khi học sinh mượn sách gồm ID mượn (là mã để phân biệt các lần mượn sách), mã thẻ, mã sách, ngày mượn, ngày trả.\nĐối với cơ sở dữ liệu trên, một số bạn đã đưa ra các phát biểu sau:",
+      "text": "(D2/C5a-B-AI2; D2/C5b-H-AI2; D2/C5c-V-AI2; D2/C5d-V-AI2):\nĐể quản lý việc mượn trả sách ở thư viện trường THPT Đặng Huy Trứ, cô thủ thư đã nhờ các bạn trong câu lạc bộ “Em yêu lập trình” của trường tạo một CSDL gồm 3 bảng:\nBANGSACH(Masach, Tensach, Theloai, TenTG, NhaXB, NamXB)\nBANGHOCSINH(Mathe, Hoten, Ngaysinh, Lop, SĐT)\nBANGMUONTRA(IDmuon, Mathe, Masach, Ngaymuon, Ngaytra)\nTrong đó: BANGSACH lưu các thông tin của các cuốn sách có trong thư viện gồm: mã sách, tên sách, thể loại, tên tác giả, nhà xuất bản, năm xuất bản. BANGHOCSINH lưu các thông tin của học sinh làm thẻ gồm: mã thẻ, họ tên, ngày sinh, lớp, số điện thoại. BANGMUONSACH lưu các thông tin khi học sinh mượn sách gồm ID mượn (là mã để phân biệt các lần mượn sách), mã thẻ, mã sách, ngày mượn, ngày trả.\nĐối với cơ sở dữ liệu trên, một số bạn đã đưa ra các phát biểu sau:",
       "items": {
-        "a": "Khi tạo BANGSACH ta cần tạo 6 trường.",
-        "b": "Khóa chính của BANGMUONSACH là trường Mathe và Masach.",
+        "a": "Khi tạo BANGSACH ta cần tạo 6 trường. (B-Đúng)",
+        "b": "Khóa chính của BANGMUONSACH là trường Mathe và Masach. (H-Sai)",
         "c": "Để xem dữ liệu gồm các thông tin của học sinh trong BANGHOCSINH, ta sẽ tạo Biểu mẫu lấy nguồn dữ liệu từ BANGHOCSINH. (V-Đúng).",
-        "d": "Để tạo ra truy vấn hiển thị thông tin họ tên, lớp của các học sinh mượn sách trước ngày 15/3/2025 ta chỉ cần sử dụng thông tin ở BANGMUONSACH."
+        "d": "Để tạo ra truy vấn hiển thị thông tin họ tên, lớp của các học sinh mượn sách trước ngày 15/3/2025 ta chỉ cần sử dụng thông tin ở BANGMUONSACH. (V-Sai)"
       },
       "answers": {}
     },

@@ -4,20 +4,20 @@
   "mcQuestions": [
     {
       "number": 1,
-      "text": "Phương án nào sau đây là đáp án ĐÚNG của câu hỏi:\n“Trí tuệ nhân tạo (AI) do con người lập trình tạo nên với mục tiêu giúp máy tính thực hiện hành vi như thế nào?”",
+      "text": "(12A-B-CC9) Phương án nào sau đây là đáp án ĐÚNG của câu hỏi:\n“Trí tuệ nhân tạo (AI) do con người lập trình tạo nên với mục tiêu giúp máy tính thực hiện hành vi như thế nào?”",
       "options": {
         "A": "hoàn toàn như con người",
         "B": "giống như con người một cách hoàn hảo nhất",
-        "C": "tương tự như con người.",
+        "C": "tương tự như con người",
         "D": "khác hẳn với con người"
       },
       "answer": "C"
     },
     {
       "number": 2,
-      "text": "Phương án nào sau đây mô tả sự khác biệt chính giữa trí tuệ nhân tạo tổng quát và trí tuệ nhân tạo hẹp ?",
+      "text": "(12A-H-CC9) Phương án nào sau đây mô tả sự khác biệt chính giữa trí tuệ nhân tạo tổng quát (AGI) và trí tuệ nhân tạo hẹp (AI hẹp)?",
       "options": {
-        "A": "Khả năng tự học và tự chuyển đổi giữa các nhiệm vụ khác nhau.",
+        "A": "Khả năng tự học và tự chuyển đổi giữa các nhiệm vụ khác nhau",
         "B": "Khả năng thực hiện các hành vi thông minh như con người",
         "C": "Khả năng thực hiện nhiệm vụ một cách tự động không cần sự can thiệp của con người",
         "D": "Khả năng nhận thức và suy luận như con người trong mọi tình huống"
@@ -26,20 +26,20 @@
     },
     {
       "number": 3,
-      "text": "Phát biểu nào sau đây KHÔNG phải là một đặc trưng cơ bản của Trí tuệ nhân tạo ?",
+      "text": "(12A-B-CC9) Phát biểu nào sau đây KHÔNG phải là một đặc trưng cơ bản của Trí tuệ nhân tạo (AI)?",
       "options": {
         "A": "Khả năng học",
         "B": "Khả năng suy luận",
         "C": "Khả năng giải quyết vấn đề",
-        "D": "Khả năng thay thế con người hoàn toàn."
+        "D": "Khả năng thay thế con người hoàn toàn"
       },
       "answer": "D"
     },
     {
       "number": 4,
-      "text": "Phát biểu nào sau đây là tên thường gọi của mạng Wi-Fi?",
+      "text": "(12B-B-AC7) Phát biểu nào sau đây là tên thường gọi của mạng Wi-Fi?",
       "options": {
-        "A": "Mạng WLAN.",
+        "A": "Mạng WLAN",
         "B": "Mạng Internet",
         "C": "Mạng không dây",
         "D": "Mạng cục bộ"
@@ -48,10 +48,10 @@
     },
     {
       "number": 5,
-      "text": "Phương án nào sau đây là cơ chế làm giảm nguy cơ quá tải mạng trong giao thức TCP/IP?",
+      "text": "(12B-H-AC7) Phương án nào sau đây là cơ chế làm giảm nguy cơ quá tải mạng trong giao thức TCP/IP?",
       "options": {
         "A": "Cơ chế kiểm soát lỗi và tái tạo dữ liệu",
-        "B": "Cơ chế điều chỉnh tốc độ truyền dữ liệu giữa nguồn và đích.",
+        "B": "Cơ chế điều chỉnh tốc độ truyền dữ liệu giữa nguồn và đích",
         "C": "Cơ chế duy trì trật tự các gói tin",
         "D": "Cơ chế định vị các thiết bị trên mạng"
       },
@@ -59,21 +59,21 @@
     },
     {
       "number": 6,
-      "text": "Để kết nối 32 máy tính trong phòng thực hành Tin học thành một mạng LAN, ta nên dùng:",
+      "text": "(12B-V-AC7) Để kết nối 32 máy tính trong phòng thực hành Tin học thành một mạng LAN, ta nên dùng:",
       "options": {
         "A": "1 switch 24 cổng",
         "B": "2 switch 16 cổng",
-        "C": "2 switch 24 cổng.",
+        "C": "2 switch 24 cổng",
         "D": "4 switch 8 cổng"
       },
       "answer": "C"
     },
     {
       "number": 7,
-      "text": "Phương án nào sau đây KHÔNG thuộc về quyền của người dùng trong môi trường số?",
+      "text": "(12D-B-BC5) Phương án nào sau đây KHÔNG thuộc về quyền của người dùng trong môi trường số?",
       "options": {
         "A": "Quyền truy cập thông tin công khai",
-        "B": "Quyền tự do đăng tải bất kỳ nội dung nào mà không cần kiểm duyệt.",
+        "B": "Quyền tự do đăng tải bất kỳ nội dung nào mà không cần kiểm duyệt",
         "C": "Quyền bảo mật thông tin cá nhân",
         "D": "Quyền xóa bỏ dữ liệu cá nhân khi cần thiết"
       },
@@ -81,10 +81,10 @@
     },
     {
       "number": 8,
-      "text": "Phát biểu nào sau đây là nguyên nhân người dùng cần phải kiểm tra nguồn gốc và tính chính xác của thông tin trước khi chia sẻ trên mạng xã hội?",
+      "text": "(12D-H-BC3) Phát biểu nào sau đây là nguyên nhân người dùng cần phải kiểm tra nguồn gốc và tính chính xác của thông tin trước khi chia sẻ trên mạng xã hội?",
       "options": {
         "A": "Để làm cho nội dung chia sẻ hấp dẫn hơn",
-        "B": "Để đảm bảo thông tin lan truyền đúng và không gây hoang mang cho người khác.",
+        "B": "Để đảm bảo thông tin lan truyền đúng và không gây hoang mang cho người khác",
         "C": "Để tăng lượng người theo dõi trên mạng xã hội",
         "D": "Để mọi người đều có thể đọc và hiểu được"
       },
@@ -92,63 +92,72 @@
     },
     {
       "number": 9,
-      "text": "Chọn phương án đúng khi nói về hậu quả của hành vi sao chép nội dung từ một trang web khác và đăng tải lại trên trang của mình mà không ghi nguồn gốc?",
+      "text": "(12D-V-BC4) Chọn phương án đúng khi nói về hậu quả của hành vi sao chép nội dung từ một trang web khác và đăng tải lại trên trang của mình mà không ghi nguồn gốc?",
       "options": {
         "A": "Giúp trang của mình thu hút được nhiều người xem hơn",
         "B": "Không có hậu quả gì vì đây là thông tin công khai",
-        "C": "Có thể bị khiếu nại và xử lý về vấn đề vi phạm bản quyền.",
+        "C": "Có thể bị khiếu nại và xử lý về vấn đề vi phạm bản quyền",
         "D": "Làm nội dung của mình phong phú hơn mà không phải tốn công sức"
       },
       "answer": "C"
     },
     {
       "number": 10,
-      "text": "Trong các thẻ sau, thẻ nào được sử dụng để tạo một bảng trong ngôn ngữ HTML?",
+      "text": "(12F-B-CC3) Trong các thẻ sau, thẻ nào được sử dụng để tạo một bảng trong ngôn ngữ HTML?",
       "options": {
-        "A": "<list>\t\tB. <table>.\t\tC. <grid>\t\tD. <block>"
+        "A": "<list>",
+        "B": "<table>",
+        "C": "<grid>",
+        "D": "<block>"
       },
       "answer": ""
     },
     {
       "number": 11,
-      "text": "Trong một văn bản HTML cơ bản, thẻ nào trong phần tử <head> được dùng để đặt tiêu đề cho trang web?",
+      "text": "(12F-B-CC3) Trong một văn bản HTML cơ bản, thẻ nào trong phần tử <head> được dùng để đặt tiêu đề cho trang web?",
       "options": {
-        "A": "<header>\t\t\tB.<body>\tC.<head>     \tD.<title>."
+        "A": "<header>\t\t\tB.<body>\tC.<head>     \tD.<title>"
       },
       "answer": "A"
     },
     {
       "number": 12,
-      "text": "Chọn phương án đúng khi nói về thuộc tính được dùng để xác định kích thước của font chữ trong CSS của ngôn ngữ HTML?",
+      "text": "(12F-B-CC3) Chọn phương án đúng khi nói về thuộc tính được dùng để xác định kích thước của font chữ trong CSS của ngôn ngữ HTML?",
       "options": {
-        "A": "font-size.\t\tB. text-size\t\tC. size\t\tD. font-style"
+        "A": "font-size",
+        "B": "text-size",
+        "C": "size",
+        "D": "font-style"
       },
       "answer": ""
     },
     {
       "number": 13,
-      "text": "Trong các thẻ sau, thẻ nào được dùng để liên kết một tập tin CSS ngoài vào một trang web trong ngôn ngữ HTML?",
+      "text": "(12F-B-CC3) Trong các thẻ sau, thẻ nào được dùng để liên kết một tập tin CSS ngoài vào một trang web trong ngôn ngữ HTML?",
       "options": {
-        "A": "<style>\t\tB. <css>\t\tC. <link>.\t\tD. <script>"
+        "A": "<style>",
+        "B": "<css>",
+        "C": "<link>",
+        "D": "<script>"
       },
       "answer": ""
     },
     {
       "number": 14,
-      "text": "Phát biểu nào ĐÚNG về tác dụng của đoạn mã sau trong HTML?\n<table border=\"1\" width=\"100%\" bgcolor=\"gray\"></table>",
+      "text": "(12F-H-CC3) Phát biểu nào ĐÚNG về tác dụng của đoạn mã sau trong HTML?\n<table border=\"1\" width=\"100%\" bgcolor=\"gray\"></table>",
       "options": {
         "A": "Tạo bảng có đường viền xung quanh có độ dày 100%, nền màu xám",
         "B": "Tạo bảng có đường viền xung quanh độ dày 1px, chiều rộng bảng bằng 100px, nền màu xám",
         "C": "Tạo bảng có đường viền xung quanh độ dày 1px, kiểu đường viền đứt nét, chiều rộng bảng bằng chiều rộng của trình duyệt, nền màu xám",
-        "D": "Tạo bảng có đường viền xung quanh độ dày 1px, chiều rộng bảng bằng chiều rộng của trình duyệt, nền màu xám."
+        "D": "Tạo bảng có đường viền xung quanh độ dày 1px, chiều rộng bảng bằng chiều rộng của trình duyệt, nền màu xám"
       },
       "answer": "D"
     },
     {
       "number": 15,
-      "text": "Trong ngôn ngữ HTML, cú pháp nào là ĐÚNG khi khai báo để tạo hiệu ứng đổi màu nền của ô thành màu xanh khi người dùng di chuyển chuột trên bảng dữ liệu thuộc lớp my-table?",
+      "text": "(12F-H-CC3) Trong ngôn ngữ HTML, cú pháp nào là ĐÚNG khi khai báo để tạo hiệu ứng đổi màu nền của ô thành màu xanh (#ceeaff) khi người dùng di chuyển chuột trên bảng dữ liệu thuộc lớp my-table?",
       "options": {
-        "A": ".my-table td:hover {background-color: #ceeaff; }.",
+        "A": ".my-table td:hover {background-color: #ceeaff; }",
         "B": ".my-table td:active {background-color: #ceeaff; }",
         "C": ".my-table td:focus{background-color: #ceeaff; }",
         "D": ".my-table td:visited {background-color: #ceeaff; }"
@@ -157,9 +166,9 @@
     },
     {
       "number": 16,
-      "text": "Chọn phương án mô tả đúng quy trình của việc hoàn thiện và xuất trang Web?",
+      "text": "(12F-H-CC3) Chọn phương án mô tả đúng quy trình của việc hoàn thiện và xuất trang Web?",
       "options": {
-        "A": "Kiểm tra các thiết lập→Xuất trang Web→Chia sẻ liên kết→Hiệu chỉnh.",
+        "A": "Kiểm tra các thiết lập→Xuất trang Web→Chia sẻ liên kết→Hiệu chỉnh",
         "B": "Kiểm tra các thiết lập→Chia sẻ liên kết→Xuất bản trang Web→Hiệu chỉnh",
         "C": "Kiểm tra các thiết lập →Hiệu chỉnh → Xuất bản trang Web→Chia sẻ liên kết",
         "D": "Chia sẻ liên kết→Kiểm tra các thiết lập→Xuất bản trang Web→Hiệu chỉnh"
@@ -168,19 +177,19 @@
     },
     {
       "number": 17,
-      "text": "Trong ngôn ngữ HTML, để nhúng trang web https://sachcanhdieu.vn vào trang web hiện tại với kích thước chiều cao khung bằng chiều rộng khung bằng 50% kích thước cửa sổ trình duyệt, cần sử dụng lệnh nào sau đây?",
+      "text": "(12F-V-CC3) Trong ngôn ngữ HTML, để nhúng trang web https://sachcanhdieu.vn vào trang web hiện tại với kích thước chiều cao khung bằng chiều rộng khung bằng 50% kích thước cửa sổ trình duyệt, cần sử dụng lệnh nào sau đây?",
       "options": {
         "A": "<iframe scr= \"https://sachcanhdieu.vn\" width=\"50\" height=\"50\" > </iframe>",
-        "B": "<iframe src= \"https://sachcanhdieu.vn\" width=\"50%\" height=\"50%\"></iframe>.",
-        "C": "<iframe src= https://sachcanhdieu.vn\" width=height=\"50\" ></iframe>"
+        "B": "<iframe src= \"https://sachcanhdieu.vn\" width=\"50%\" height=\"50%\"></iframe>",
+        "C": "<iframe src= https://sachcanhdieu.vn\" width=height=\"50\" ></iframe>\nD. <iframe scr= \"https://sachcanhdieu.vn\" width=height=\"50%\" > </iframe>"
       },
       "answer": "B"
     },
     {
       "number": 18,
-      "text": "Trong ngôn ngữ HTML để tạo một biểu mẫu đơn giản với một trường nhập liệu tên và một nút gửi, đoạn mã nào sau đây được sử dụng?",
+      "text": "(12F-V-CC3) Trong ngôn ngữ HTML để tạo một biểu mẫu đơn giản với một trường nhập liệu tên và một nút gửi, đoạn mã nào sau đây được sử dụng?",
       "options": {
-        "A": "<form><input type=\"text\" name=\"ten\"><button type=\"submit\">Gửi</button></form>.",
+        "A": "<form><input type=\"text\" name=\"ten\"><button type=\"submit\">Gửi</button></form>",
         "B": "<form><input type=\"text\" value=\"ten\"><button>Gửi</button></form>",
         "C": "<form><input name=\"ten\"><button>Gửi</button></form>",
         "D": "<form><input type=\"text\" id=\"ten\"><button>Gửi</button></form>"
@@ -189,9 +198,9 @@
     },
     {
       "number": 19,
-      "text": "Để tạo một danh sách không đánh số với 3 mục là \"Trái cây\", \"Rau củ\", \"Thịt\", trong ngôn ngữ HTML đoạn mã nào sau đây được sử dụng?",
+      "text": "(12F-V-CC3) Để tạo một danh sách không đánh số (unordered list) với 3 mục là \"Trái cây\", \"Rau củ\", \"Thịt\", trong ngôn ngữ HTML đoạn mã nào sau đây được sử dụng?",
       "options": {
-        "A": "<ul><li>Trái cây</li><li>Rau củ</li><li>Thịt</li></ul>.",
+        "A": "<ul><li>Trái cây</li><li>Rau củ</li><li>Thịt</li></ul>",
         "B": "<ol><li>Trái cây</li><li>Rau củ</li><li>Thịt</li></ol>",
         "C": "<list><li>Trái cây</li><li>Rau củ</li><li>Thịt</li></list>",
         "D": "<menu><li>Trái cây</li><li>Rau củ</li><li>Thịt</li></menu>"
@@ -200,20 +209,20 @@
     },
     {
       "number": 20,
-      "text": "Để tạo một bảng gồm 2 hàng và 2 cột, trong đó ô ở góc trên bên trái có nội dung tiêu đề \"Họ và tên\" in đậm, đoạn mã HTML nào sau đây là đúng?",
+      "text": "(12F-V-CC3) Để tạo một bảng gồm 2 hàng và 2 cột, trong đó ô ở góc trên bên trái có nội dung tiêu đề \"Họ và tên\" in đậm, đoạn mã HTML nào sau đây là đúng?",
       "options": {
         "A": "<table><tr><td>Họ và tên</td></tr><tr><td></td></tr></table>",
         "B": "<table><tr><td>Họ và tên</td><td></td></tr><tr><td></td><td></td></tr></table>",
-        "C": "<table><tr><th>Họ và tên</th><th></th></tr><tr><td></td><td></td></tr></table>.",
+        "C": "<table><tr><th>Họ và tên</th><th></th></tr><tr><td></td><td></td></tr></table>",
         "D": "<table><tr><td>Họ và tên</td></tr></table>"
       },
       "answer": "C"
     },
     {
       "number": 21,
-      "text": "Trong ngôn ngữ HTML, để tạo một hình ảnh có độ rộng 200px, độ cao 150px và tên tệp ảnh là \"anh_dai_dien.jpg\", đoạn mã nào sau đây là ĐÚNG?",
+      "text": "(12F-V-CC3) Trong ngôn ngữ HTML, để tạo một hình ảnh có độ rộng 200px, độ cao 150px và tên tệp ảnh là \"anh_dai_dien.jpg\", đoạn mã nào sau đây là ĐÚNG?",
       "options": {
-        "A": "<img src=\"anh_dai_dien.jpg\" width=\"200\" height=\"150\">.",
+        "A": "<img src=\"anh_dai_dien.jpg\" width=\"200\" height=\"150\">",
         "B": "<image src=\"anh_dai_dien.jpg\" width=\"150\" height=\"200\">",
         "C": "<img href=\"anh_dai_dien.jpg\" width=\"200\" height=\"150\">",
         "D": "<picture src=\"anh_dai_dien.jpg\" width=\"200\" height=\"150\">"
@@ -222,21 +231,21 @@
     },
     {
       "number": 22,
-      "text": "Nghề nghiệp nào sau đây yêu cầu kiến thức về lập trình và phát triển phần mềm?",
+      "text": "(12G-B-BC6) Nghề nghiệp nào sau đây yêu cầu kiến thức về lập trình và phát triển phần mềm?",
       "options": {
         "A": "Chuyên viên phân tích tài chính",
         "B": "Kỹ thuật viên sửa chữa máy tính",
-        "C": "Nhà phát triển ứng dụng di động.",
+        "C": "Nhà phát triển ứng dụng di động",
         "D": "Nhân viên bán hàng"
       },
       "answer": "C"
     },
     {
       "number": 23,
-      "text": "Chọn phương án ĐÚNG để mô tả về công việc cho người làm trong ngành trí tuệ nhân tạo và học máy?",
+      "text": "(12G-H-BC6) Chọn phương án ĐÚNG để mô tả về công việc cho người làm trong ngành trí tuệ nhân tạo và học máy?",
       "options": {
         "A": "Nhân viên kinh doanh",
-        "B": "Nhà nghiên cứu AI/ML (Machine Learning).",
+        "B": "Nhà nghiên cứu AI/ML (Machine Learning)",
         "C": "Kỹ sư phần cứng",
         "D": "Chuyên viên kiểm thử phần mềm"
       },
@@ -244,11 +253,11 @@
     },
     {
       "number": 24,
-      "text": "Trong công ty phần mềm X, ông Y là nhân viên chịu trách nhiệm kiểm tra và đảm bảo hoạt động các phần mềm trong lĩnh vực Công nghệ thông tin. Vậy ông Y là:",
+      "text": "(12G-V-BC7) Trong công ty phần mềm X, ông Y là nhân viên chịu trách nhiệm kiểm tra và đảm bảo hoạt động các phần mềm trong lĩnh vực Công nghệ thông tin. Vậy ông Y là:",
       "options": {
         "A": "Lập trình viên",
         "B": "Kỹ thuật viên sửa chữa máy tính",
-        "C": "Chuyên viên kiểm thử phần mềm (Tester).",
+        "C": "Chuyên viên kiểm thử phần mềm (Tester)",
         "D": "Chuyên viên hỗ trợ kỹ thuật"
       },
       "answer": "C"
@@ -257,8 +266,13 @@
   "tfQuestions": [
     {
       "number": 1,
-      "text": "Câu 1",
-      "items": {},
+      "text": "(11F, CC5)\nTrường THPT Nguyễn Văn Trỗi xây dựng một cơ sở dữ liệu (CSDL) để quản lý điểm kiểm tra của học sinh, bao gồm 2 bảng được liên kết theo quan hệ một-nhiều (1-n) như sau:\nBảng HOC_SINH (MaHS, TenHS, NgaySinh, GT) lưu thông tin về học sinh, gồm: Mã học sinh, họ tên, ngày sinh, giới tính.\nBảng MON_HOC (MaMon, MaHS, TenMon, Diem) lưu thông tin điểm các môn học sinh tham gia kiểm tra, gồm: Mã môn học, mã học sinh, tên môn học, điểm.\nSau khi tìm hiểu về cơ sở dữ liệu này, các bạn học sinh đã đưa ra một số ý kiến như sau:",
+      "items": {
+        "a": "Trường MaHS trong bảng HOC_SINH đóng vai trò là khóa chính.",
+        "b": "Mối liên kết 1-n được thực hiện thông qua trường MaHS.",
+        "c": "Không thể hiển thị danh sách chỉ gồm tên các học sinh có điểm > 8,0.",
+        "d": "Để tạo liên kết giữa hai bảng HOC_SINH và MON_HOC, cần thêm vào mỗi bảng một trường làm khóa ngoài."
+      },
       "answers": {
         "a": true,
         "b": true,
@@ -268,8 +282,13 @@
     },
     {
       "number": 2,
-      "text": "Câu 2",
-      "items": {},
+      "text": "(12B, 12D, 12F)\nTrong buổi hoạt động ngoại khóa, các bạn trong lớp 12A đã ghi lại hình ảnh, chia sẻ lên trang web và Zalo của lớp. Một số bạn trong lớp có các ý kiến như sau:",
+      "items": {
+        "a": "Học sinh chỉ được vào trang web của lớp để tải hình ảnh về máy cá nhân.",
+        "b": "Các bạn trong lớp có thể xem hình ảnh của lớp trong nhóm Zalo chung bằng cả điện thoại lẫn máy tính có kết nối mạng.",
+        "c": "Các bạn chỉ nên chọn lọc chia sẻ những bức ảnh đẹp vào trang web và Zalo của lớp.",
+        "d": "Bạn lớp trưởng lựa chọn bức ảnh đẹp, chụp chung cả lớp lưu với tên file “12A.jpg” có kích thước chiều rộng 800px, chiều cao 300px để đăng lên trang web của lớp với cú pháp: <img src = “12A.jpg” alt = “Lớp 12A” width = “800” height = “300”>"
+      },
       "answers": {
         "a": false,
         "b": true,
@@ -279,8 +298,13 @@
     },
     {
       "number": 3,
-      "text": "Câu 3",
-      "items": {},
+      "text": "(12FCS, CS4)\nTrong buổi thảo luận về vai trò của học máy trong việc phân tích thị trường, một nhóm học sinh đã tranh luận về cách công nghệ này hỗ trợ doanh nghiệp trong việc hiểu rõ xu hướng tiêu dùng và tối ưu hóa chiến lược kinh doanh. Một số bạn có các ý kiến như sau:",
+      "items": {
+        "a": "Học máy chủ yếu áp dụng trong phòng thí nghiệm hoặc các mô hình ảo chưa ứng dụng trong thực tế.",
+        "b": "Học máy có khả năng dự đoán xu hướng và hành vi của người tiêu dùng, cũng như phản ứng của thị trường đối với việc điều chỉnh sản phẩm.",
+        "c": "Học máy giúp xây dựng phân cụm dữ liệu khách hàng của doanh nghiệp để từ đó có chiến lược  nâng cao hiệu quả hoạt động sản xuất kinh doanh.",
+        "d": "Học máy trong bài toán phân cụm là học có giám sát."
+      },
       "answers": {
         "a": false,
         "b": true,
@@ -290,8 +314,13 @@
     },
     {
       "number": 4,
-      "text": "Câu 4",
-      "items": {},
+      "text": "(11FCS, CC2)\nMột nhóm học sinh thực hiện một nghiên cứu về tốc độ phản ứng của con người trong các tình huống khác nhau. Họ tiến hành đo thời gian phản ứng của 7 người tham gia và thu được bộ dữ liệu sau:\nA = [2, 3, 5, 7, 7, 10, 15]  (đơn vị: mili-giây).\nTrong buổi thảo luận về phương pháp lưu trữ và tìm kiếm dữ liệu, một số bạn học sinh đưa ra các ý kiến như sau:",
+      "items": {
+        "a": "Trong lập trình ta sử dụng kiểu dữ liệu danh sách để lưu trữ bộ dữ liệu trên.",
+        "b": "Để tìm kiếm phần tử có giá trị 10 trong bộ dữ liệu A, ta sử dụng kỹ thuật tìm kiếm nhị phân sẽ nhanh hơn kỹ thuật tìm kiếm tuần tự.",
+        "c": "Số lần duyệt để tìm phần tử có giá trị 12 bằng kỹ thuật tìm kiếm nhị phân trong bộ dữ liệu A là 6.",
+        "d": "Để tìm kiếm phần tử có giá trị 10 trong bộ dữ liệu A bằng kỹ thuật tìm kiếm nhị phân thì dãy con sẽ tìm kiếm ở lần duyệt thứ 2 là: [7, 10, 15]."
+      },
       "answers": {
         "a": true,
         "b": true,
@@ -300,9 +329,25 @@
       }
     },
     {
+      "number": 5,
+      "text": "(11EICT, AI2)\nTrường THPT Nguyễn Văn Trỗi có một cơ sở dữ liệu có tên THUVIEN dùng để quản lý việc mượn trả sách của trường. Cơ sở dữ liệu gồm 3 bảng với cấu trúc như sau:\nBANDOC (MaHocSinh, HoTen, NgaySinh, GioiTinh, Lop, NamHoc)\nSACH (MaSach, TenSach, SanCo, SoTrang, TacGia)\nMUONTRA (MaHocSinh, MaSach, NgayMuon, NgayTra)\nTrong đó: bảng BANDOC lưu các thông tin về bạn đọc (mã học sinh, họ tên, ngày sinh, giới tính, lớp, năm học), bảng SACH lưu các thông tin về các cuốn sách thư viện (mã sách, tên sách, sẵn có, số trang, tác giả), bảng MUONTRA lưu các thông tin về học sinh mượn/trả sách (mã học sinh, mã sách, ngày mượn, ngày trả).\nMột số bạn học sinh đưa ra các ý kiến về hệ cơ sở dữ liệu trên như sau:",
+      "items": {
+        "a": "Khóa chính của bảng BANDOC là trường MaHocSinh.",
+        "b": "Hai bảng BANDOC và MUONTRA có quan hệ với nhau.",
+        "c": "Để biết thông tin bạn “Nguyễn Văn An” mượn những quyển sách nào của thư viện, ta cần truy xuất dữ liệu từ 3 bảng trên.",
+        "d": "Nhà trường yêu cầu bổ sung thông tin về thuộc tính “TÌNH TRẠNG” cuốn sách trước và sau mượn cần thay đổi cấu trúc của bảng MUONTRA."
+      },
+      "answers": {}
+    },
+    {
       "number": 6,
-      "text": "Câu 6",
-      "items": {},
+      "text": "(12EICT, CC3)\nThầy Linh muốn tạo một website cung cấp tài liệu cho học sinh tự học môn Tin học. Website này sẽ bao gồm ba trang chính: Giới thiệu, Tài liệu và Liên hệ. Thầy Linh cần tạo phần đầu trang cho tất cả các trang của website có thanh điều hướng, trong đó mỗi mục sẽ liên kết tới một trang trong cùng website.\nVới tình huống trên, một số bạn đưa ra các phát biểu sau đây:",
+      "items": {
+        "a": "Website sẽ bao gồm 3 tệp tin có phần mở rộng là .html",
+        "b": "Thanh điều hướng chỉ cần 2 mục có tên Giới thiệu, Tài liệu.",
+        "c": "Thanh điều hướng luôn cố định nằm bên trái của phần đầu trang.",
+        "d": "Nếu thay đổi tên file của trang từ \"Tài liệu.html\" thành \"Hoc-lieu.html\", thì liên kết trong thanh điều hướng cũng cần được cập nhật để phản ánh đúng thay đổi đó."
+      },
       "answers": {
         "a": true,
         "b": false,

@@ -4,215 +4,330 @@
   "mcQuestions": [
     {
       "number": 1,
-      "text": "Câu 1",
-      "options": {},
+      "text": "Khả năng nào của trí tuệ nhân tạo (AI) cho phép máy tính tự điều chỉnh hành vi dựa trên dữ liệu mới?",
+      "options": {
+        "A": "Khả năng suy luận",
+        "B": "Khả năng học",
+        "C": "Khả năng nhận thức",
+        "D": "Khả năng giải quyết vấn đề"
+      },
       "answer": "B"
     },
     {
       "number": 2,
-      "text": "Câu 2",
-      "options": {},
+      "text": "Trong các nhiệm vụ sau, đâu là thách thức lớn đối với trí tuệ nhân tạo (AI) do tính phức tạp và khó định lượng chính xác?",
+      "options": {
+        "A": "Nhận diện biển số xe",
+        "B": "Dự báo thời tiết",
+        "C": "Xử lý ngôn ngữ tự nhiên",
+        "D": "Nhận diện chính xác cảm xúc của con người"
+      },
       "answer": "D"
     },
     {
       "number": 3,
-      "text": "Câu 3",
-      "options": {},
+      "text": "Thiết bị nào sau đây trong mạng LAN có nhiệm vụ chuyển tiếp dữ liệu giữa các thiết bị?",
+      "options": {
+        "A": "Router",
+        "B": "Modem",
+        "C": "Switch",
+        "D": "Access Point"
+      },
       "answer": "C"
     },
     {
       "number": 4,
-      "text": "Câu 4",
-      "options": {},
+      "text": "Thiết bị nào dùng để kết nối mạng không dây cho các thiết bị trong một mạng cục bộ?",
+      "options": {
+        "A": "Switch",
+        "B": "Modem",
+        "C": "Access Point",
+        "D": "Router"
+      },
       "answer": "C"
     },
     {
       "number": 5,
-      "text": "Câu 5",
+      "text": "Một công ty muốn kết nối mạng LAN nội bộ với mạng Internet. Thiết bị nào sau đây là cần thiết để thực hiện điều này?",
       "options": {},
       "answer": "D"
     },
     {
       "number": 6,
-      "text": "Câu 6",
-      "options": {},
+      "text": "Để tự bảo vệ thông tin cá nhân và tài khoản trực tuyến, biện pháp nào sau đây là phù hợp nhất?",
+      "options": {
+        "A": "Sử dụng mật khẩu đơn giản và dễ nhớ",
+        "B": "Chia sẻ mật khẩu với bạn bè để họ giúp bảo vệ tài khoản",
+        "C": "Sử dụng mật khẩu mạnh và đổi mật khẩu định kỳ",
+        "D": "Không cần thay đổi mật khẩu vì bạn không gặp vấn đề gì"
+      },
       "answer": "C"
     },
     {
       "number": 7,
-      "text": "Câu 7",
-      "options": {},
+      "text": "Khi tạo mật khẩu cho tài khoản trực tuyến, cách đặt mật khẩu nào sau đây đảm bảo an toàn nhất?",
+      "options": {
+        "A": "Mật khẩu gồm tên của bạn và ngày sinh",
+        "B": "Mật khẩu dài từ 12 ký tự trở lên, kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt",
+        "C": "Mật khẩu dễ nhớ như \"123456\" hoặc \"password\"",
+        "D": "Mật khẩu giống nhau cho tất cả các tài khoản"
+      },
       "answer": "B"
     },
     {
       "number": 8,
-      "text": "Câu 8",
-      "options": {},
+      "text": "Trong không gian mạng, hành động nào sau đây thể hiện sự ứng xử văn minh và có tính nhân văn?",
+      "options": {
+        "A": "Chia sẻ thông tin cá nhân của người khác khi chưa được phép",
+        "B": "Ngăn chặn việc phát tán các video có nội dung không tốt",
+        "C": "Sử dụng những ngôn từ thô tục hoặc khiêu khích",
+        "D": "Đăng bài lên mạng xã hội làm ảnh hưởng đến danh dự của người khác khi chưa kiểm tra tính chính xác"
+      },
       "answer": "B"
     },
     {
       "number": 9,
-      "text": "Câu 9",
-      "options": {},
+      "text": "Khi bạn Nam nhận được một email yêu cầu cung cấp thông tin cá nhân để \"xác minh tài khoản\" từ một dịch vụ mà Nam đang sử dụng, Nam sẽ làm gì để bảo vệ bản thân khỏi hành vi lừa đảo?",
+      "options": {
+        "A": "Ngay lập tức cung cấp thông tin cá nhân vì bạn nghĩ rằng điều đó là cần thiết để bảo vệ tài khoản của mình",
+        "B": "Nhấp vào liên kết trong email để xác minh và làm theo hướng dẫn",
+        "C": "Kiểm tra địa chỉ email người gửi và tìm hiểu xem đó có phải là địa chỉ chính thức của dịch vụ hay không, sau đó liên hệ trực tiếp với dịch vụ để xác nhận yêu cầu",
+        "D": "Xóa email mà không đọc và không làm gì thêm"
+      },
       "answer": "C"
     },
     {
       "number": 10,
-      "text": "Câu 10",
-      "options": {},
+      "text": "Cặp thẻ nào sau đây được dùng để tạo bảng trong thiết kế trang Web.",
+      "options": {
+        "A": "<table>…</table>",
+        "B": "<ol>…</ol>",
+        "C": "<tr>…</tr>",
+        "D": "<ul>…</ul>"
+      },
       "answer": "A"
     },
     {
       "number": 11,
-      "text": "Câu 11",
-      "options": {},
+      "text": "Thẻ HTML nào sau đây dùng để tạo các siêu liên kết?",
+      "options": {
+        "A": "<p>",
+        "B": "<body>",
+        "C": "<a>",
+        "D": "<table>"
+      },
       "answer": "C"
     },
     {
       "number": 12,
-      "text": "Câu 12",
-      "options": {},
+      "text": "Những thẻ HTML nào sau đây được dùng để định nghĩa cấu trúc của bảng?",
+      "options": {
+        "A": "<table>, <tr> và <tt>",
+        "B": "<table>, <tr> và <td>",
+        "C": "<table>, <head> và <th>",
+        "D": "<body>, <td> và <tt>"
+      },
       "answer": "B"
     },
     {
       "number": 13,
-      "text": "Câu 13",
-      "options": {},
+      "text": "Phần tử HTML nào cho phép nhúng một trang web vào trang web hiện tại?",
+      "options": {
+        "A": "Iframe",
+        "B": "Form",
+        "C": "Embed",
+        "D": "Include"
+      },
       "answer": "A"
     },
     {
       "number": 14,
-      "text": "Câu 14",
-      "options": {},
+      "text": "Trong HTML, thẻ <input> với thuộc tính type=\"radio\" được sử dụng để làm gì?",
+      "options": {
+        "A": "Cho phép chọn nhiều tùy chọn",
+        "B": "Cho phép chọn một tùy chọn duy nhất trong một nhóm",
+        "C": "Nhập dữ liệu dạng chữ",
+        "D": "Nhập dữ liệu dạng số"
+      },
       "answer": "B"
     },
     {
       "number": 15,
-      "text": "Câu 15",
-      "options": {},
+      "text": "Trong các phát biểu sau, phát biểu nào sai?",
+      "options": {
+        "A": "Có hai loại URL chính là đường dẫn tuyệt đối và đường dẫn tương đối",
+        "B": "Đường dẫn tương đối không yêu cầu giao thức hay tên miền mà chỉ cần tên đường dẫn",
+        "C": "Các tệp có phần mở rộng .txt là các siêu văn bản",
+        "D": "Siêu văn bản là loại văn bản mà nội dung của nó không chỉ chứa văn bản mà còn có thể chứa nhiều dạng dữ liệu khác như âm thanh, hình ảnh,… và đặc biệt là chứa các siêu liên kết tới siêu văn bản khác"
+      },
       "answer": "C"
     },
     {
       "number": 16,
-      "text": "Câu 16",
-      "options": {},
+      "text": "Phát biểu nào sau đây SAI?",
+      "options": {
+        "A": "Với một tệp HTML, hai trình duyệt sẽ hiển thị nội dung trang web khác nhau",
+        "B": "Mỗi phần tử HTML luôn phải ứng với một thẻ HTML nào đó",
+        "C": "Với tệp HTML, việc hiển thị nội dung và định dạng trang trang web chỉ phụ thuộc vào trình duyệt",
+        "D": "Một phần tử HTML được định nghĩa bởi thẻ bắt đầu, thẻ kết thúc và phần nội dung nằm giữa cặp thẻ này"
+      },
       "answer": "C"
     },
     {
       "number": 17,
-      "text": "Câu 17",
-      "options": {},
+      "text": "Trong các phát biểu sau, phát biểu nào là ĐÚNG?",
+      "options": {
+        "A": "Liên kết ngoài sử dụng đường dẫn tương đối",
+        "B": "Hai phần của cùng một tập tin văn bản có thể được liên kết với nhau bởi một siêu liên kết",
+        "C": "Nên sử dụng đường dẫn trực tiếp vì luôn đảm bảo có thể truy cập từ bất cứ đâu",
+        "D": "Liên kết trong sử dụng đường dẫn tuyệt đối"
+      },
       "answer": "B"
     },
     {
       "number": 18,
-      "text": "Câu 18",
-      "options": {},
+      "text": "Lệnh nào sau đây dùng để tạo liên kết đến trang “Báo điện tử vnexpress” khi nháy chuột vào từ “vnexpress”?",
+      "options": {
+        "A": "<a> https://vnexpress.net < báo điện tử vnexpress /a>",
+        "B": "Báo điện tử <a href=“https://vnexpress.net”>link </a> vnexpress",
+        "C": "Báo điện tử <a href=“https://vnexpress.net”> vnexpress </a>",
+        "D": "Báo điện tử <a>  href=“https://vnexpress.net” vnexpress </a>"
+      },
       "answer": "C"
     },
     {
       "number": 19,
-      "text": "Câu 19",
-      "options": {},
+      "text": "Lệnh HTML nào sau đây sẽ tạo liên kết đến trang “Báo điện tử VnExpress” khi người dùng nhấp vào từ “vnexpress”?",
+      "options": {
+        "A": "<h1 style=\"color:red\"><em> Tin học ứng dụng </em></h1>",
+        "B": "<p style=\"color:red\"><b> Tin học ứng dụng </b></p>",
+        "C": "<p style=\"color:red\"><strong> Tin học ứng dụng </strong></p>",
+        "D": "<h1 style=\"color:red\"><strong> Tin học ứng dụng </strong></h1>"
+      },
       "answer": "D"
     },
     {
       "number": 20,
-      "text": "Câu 20",
-      "options": {},
+      "text": "Mã HTML nào sau đây dùng để chèn tệp ảnh có tên là “hoa.jpg” vào một trang web?",
+      "options": {
+        "A": "<img src=\"hoa.jpg\" alt=\"ảnh hoa bằng lăng\" width=\"150\" height=\"200\">",
+        "B": "<img href=\"hoa.jpg\" alt=\"ảnh hoa bằng lăng\" width=\"150\" height=\"200\">",
+        "C": "<img link=\"hoa.jpg\" alt=\"ảnh hoa bằng lăng\" width=\"150\" height=\"200\">",
+        "D": "<img  alt=\"ảnh hoa bằng lăng\" \"hoa.jpg\"width=\"150\" height=\"200\">"
+      },
       "answer": "A"
     },
     {
       "number": 21,
-      "text": "Câu 21",
-      "options": {},
+      "text": "Lệnh HTML nào sau đây hiển thị đúng công thức hóa học của nước (H₂O)?",
+      "options": {
+        "A": "<p>H<small>2</small >O</p>",
+        "B": "<p>H<down>2</down>O</p>",
+        "C": "<p>H<sup>2</sup>O</p>",
+        "D": "<p>H<sub>2</sub>O</p>"
+      },
       "answer": "D"
     },
     {
       "number": 22,
-      "text": "Câu 22",
-      "options": {},
+      "text": "Đoạn mã HTML nào sau đây để đưa tiêu đề “Định dạng văn bản” ra giữa trang?",
+      "options": {
+        "A": "<h1 style=\"text-align:center\">Định dạng văn bản</h1>",
+        "B": "<h1 style=\"text-position:center\">Định dạng văn bản</h1>",
+        "C": "<h1 style=\"vertical-align:center\">Định dạng văn bản</h1>",
+        "D": "<h1 style=\"text-decoration\">Định dạng văn bản</h1>"
+      },
       "answer": "A"
     },
     {
       "number": 23,
-      "text": "Câu 23",
-      "options": {},
+      "text": "Ngành học nào sau đây KHÔNG liên quan đến nhóm nghề quản trị trong ngành công nghệ thông tin?",
+      "options": {
+        "A": "Quản trị mạng máy tính",
+        "B": "Mạng máy tính và truyền thông dữ liệu",
+        "C": "An ninh mạng; Hệ thống thông tin",
+        "D": "Thiết kế đồ họa"
+      },
       "answer": "D"
     },
     {
       "number": 24,
-      "text": "Câu 24",
-      "options": {},
+      "text": "Công việc nào sau đây KHÔNG liên quan đến nghề sửa chữa và bảo trì máy tính?",
+      "options": {
+        "A": "Kiểm soát và duy trì hoạt động của máy tính",
+        "B": "Cài đặt hoặc cập nhật phần mềm điều khiển thiết bị ngoại vi",
+        "C": "Nâng cấp, sửa lỗi các phần mềm để đảm bảo tính an toàn và hiệu quả",
+        "D": "Cập nhật các phiên bản mới của phần mềm để đảm bảo tính an toàn và hiệu quả"
+      },
       "answer": "C"
     }
   ],
   "tfQuestions": [
     {
       "number": 1,
-      "text": "Câu 1",
-      "items": {},
-      "answers": {
-        "a": true,
-        "b": false,
-        "c": false,
-        "d": true
-      }
+      "text": "Để quản lý điểm thi Tốt nghiệp THPT của học sinh trong toàn quốc, Bộ Giáo dục và đào tạo thiết kế CSDL quan hệ gồm 2 bảng và lưu trữ tại máy chủ của Bộ.\nBảng HOSO gồm các trường: Số báo danh, Họ và tên, Ngày sinh, Nơi sinh, Số điện thoại, Căn cước công dân.\nBảng DIEM gồm các trường: Số báo danh, Điểm môn 1,  Điểm môn 2,  Điểm môn 3,  Điểm môn 4.\nMột số bạn học sinh đưa ra các phát biểu sau:",
+      "items": {
+        "a": "Dữ liệu thuộc mô hình CSDL tập trung.",
+        "b": "Dữ liệu có thể tổ chức lưu trữ trong một bảng để tăng tốc độ xử lý.",
+        "c": "Có thể chọn một trong ba trường Số báo danh, Số điện thoại hoặc Căn cước công dân để làm khóa chính cho bảng HOSO",
+        "d": "Để thông báo kết quả thi đến các thí sinh, cần sử dụng dữ liệu của cả hai bảng HOSO và DIEM."
+      },
+      "answers": {}
     },
     {
       "number": 2,
-      "text": "Câu 2",
-      "items": {},
-      "answers": {
-        "a": false,
-        "b": true,
-        "c": false,
-        "d": false
-      }
+      "text": "Trong một phòng máy ở trường học có 30 máy tính được kết nối với nhau bằng Switch tạo thành một mạng LAN và chỉ có duy nhất một máy in. Giáo viên thực hiện kết nối máy in và máy tính của giáo viên để có thể cung cấp dịch vụ in cho các máy tính khác trong phòng máy.\nSau đây là một số nhận xét về hệ thống mạng trên:",
+      "items": {
+        "a": "Không thể chia sẻ máy in qua mạng LAN",
+        "b": "Có thể thực hiện chia sẻ máy in qua mạng Wifi.",
+        "c": "Khi chia sẻ máy in, lệnh in từ các máy tính được chia sẻ ưu tiên theo số thứ tự máy ở trong phòng máy",
+        "d": "Nếu tắt máy giáo viên, các máy khác vẫn có thể sử dụng máy in"
+      },
+      "answers": {}
     },
     {
       "number": 3,
-      "text": "Câu 3",
-      "items": {},
-      "answers": {
-        "a": true,
-        "b": false,
-        "c": true,
-        "d": true
-      }
+      "text": "Một ứng dụng học máy để nhận biết chữ viết, đầu vào là tệp ảnh văn bản, đầu ra là tệp Word, các kí tự xuất hiện trong tệp ảnh đầu vào sẽ được Ứng dụng chuyển thành mã Unicode của kí tự trong tệp Word. Theo hướng dẫn, ứng dụng sử dụng mô hình học máy nhận diện ảnh kí tự và có thể được huấn luyện lại mô hình trên tập dữ liệu mới do người dùng đưa vào.\nVới vấn đề nêu trên một số bạn học sinh đưa ra các ý kiến sau:",
+      "items": {
+        "a": "Ứng dụng không cần tập dữ liệu kiểm thử mà vẫn hoạt động được bình thường.",
+        "b": "Nếu tập dữ liệu huấn luyện không có nhãn kí tự “ơ”, ứng dụng vẫn có thể nhận diện đúng ảnh chữ “ơ”",
+        "c": "Ứng dụng có thể nhận diện được ảnh văn bản tiếng Việt, tập dữ liệu huấn luyện là tập ảnh các ảnh kí tự tiếng Việt có nhãn là mã Unicode của kí tự đó.",
+        "d": "Ứng dụng có thể nhận diện đa ngôn ngữ(ảnh văn bản của nhiều ngôn ngữ khác nhau)."
+      },
+      "answers": {}
     },
     {
       "number": 4,
-      "text": "Câu 4",
-      "items": {},
-      "answers": {
-        "a": false,
-        "b": false,
-        "c": true,
-        "d": true
-      }
+      "text": "Vào đầu tiết thể dục, thầy giáo yêu cầu các học sinh tổ một của lớp 11A xếp thành một hàng từ thấp đến cao để tiến hành kiểm tra. Lớp trưởng Minh mới học xong thuật toán sắp xếp chọn. Minh rất muốn áp dụng thuật toán vào thực tế. Nhân cơ hội này, Minh đã áp dụng thuật toán sắp xếp chọn để tiến hành sắp xếp các bạn học sinh của tổ một thành một hàng từ thấp đến cao. Giả sử tổ một có 10 học sinh, cho danh sách thể hiện chiều cao của các học sinh như sau: [5, 4, 3, 4, 5, 9, 6, 8, 7, 5].\nSau khi bạn Minh sắp xếp xong thì một số bạn học sinh có nhận xét như sau:",
+      "items": {
+        "a": "Sau lần đổi chổ thứ nhất, bạn học sinh nào cao nhất sẽ đứng cuối hàng",
+        "b": "Trong lượt chọn thứ nhất, số lần so sánh để tìm ra bạn học sinh có chiều cao nhỏ nhất là 10",
+        "c": "Số lần đổi chỗ của các bạn học sinh tổ một sau khi sắp xếp xong là 4.",
+        "d": "Sau lần chọn thứ 3 ta được danh sách thể hiện chiều cao của các bạn học sinh tổ một như sau: [3, 4, 4, 5, 5, 5, 6, 8, 7, 9]."
+      },
+      "answers": {}
     },
     {
       "number": 5,
-      "text": "Câu 5",
-      "items": {},
-      "answers": {
-        "a": true,
-        "b": false,
-        "c": false,
-        "d": true
-      }
+      "text": "Sau khi học xong chủ đề “Tạo lập và khai thác Cơ sở dữ liệu”, các nhóm học sinh lớp 11/7 được giao nhiệm vụ tạo lập một cơ sở dữ liệu để quản lý học sinh trong lớp, bao gồm các bảng dữ liệu sau:\nBảng HOC_SINH: MA_HS , HO_TEN, GIOI_TINH, NGAY_SINH\nBảng DIEM: MA_HS, DIEM_TOAN, DIEM_VAN\nMột số học sinh phát biểu như sau:",
+      "items": {
+        "a": "Để tạo lập, lưu trữ, cập nhật và truy xuất dữ liệu của CSDL, bảo mật và an toàn dữ liệu cần sử dụng hệ quản trị CSDL.",
+        "b": "Tất cả dữ liệu phải được lưu trữ trên máy lớp trưởng để đảm bảo tính bảo mật",
+        "c": "Trường HO_TEN được chọn làm khóa chính ở bảng HOC_SINH.",
+        "d": "Để hiển thị tên học sinh có điểm toán cao nhất, phải liên kết bảng HOC_SINH và BANG_DIEM qua trường MA_HS."
+      },
+      "answers": {}
     },
     {
       "number": 6,
-      "text": "Câu 6",
-      "items": {},
-      "answers": {
-        "a": true,
-        "b": false,
-        "c": true,
-        "d": true
-      }
+      "text": "Trong tiết học ngoại khóa môn Tin học, nhóm bạn Tuấn được giao nhiệm vụ chèn video và âm thanh vào website giới thiệu về danh lam thắng cảnh địa phương.\nCác thành viên trong nhóm nêu một số ý kiến như sau:",
+      "items": {
+        "a": "Dùng thẻ <video> dùng để chèn cả tệp tin và âm thanh vào trang web.",
+        "b": "Cần đưa giá trị vào thuộc tính autoplay",
+        "c": "Thẻ <audio> bao gồm các thuộc tính: src, controls, autoplay.",
+        "d": "Định dạng tệp video phổ biến nhất là mp4 và webm."
+      },
+      "answers": {}
     }
   ]
 }

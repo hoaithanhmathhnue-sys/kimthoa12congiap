@@ -48,8 +48,8 @@ export const Header: React.FC<HeaderProps> = ({ settings, onOpenSettings, onTogg
           <button
             onClick={onOpenSettings}
             className={`flex items-center gap-2 px-4 py-2 rounded-full shadow-sm hover:shadow-md transition-all text-sm font-medium ${!settings.apiKey
-                ? 'bg-red-50 border-2 border-red-300 text-red-600 animate-pulse'
-                : 'bg-white border border-gray-200 text-gray-700'
+              ? 'bg-red-50 border-2 border-red-300 text-red-600 animate-pulse'
+              : 'bg-white border border-gray-200 text-gray-700'
               }`}
           >
             <Settings className="w-4 h-4" />

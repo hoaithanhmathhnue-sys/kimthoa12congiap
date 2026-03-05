@@ -267,11 +267,22 @@ function App() {
 
         {/* Zodiac Grid */}
         <div className="w-full bg-white/90 backdrop-blur-md rounded-3xl p-6 md:p-8 shadow-2xl border border-white/50">
-          <div className="flex justify-between items-center mb-6">
-            <h3 className="text-xl font-bold text-red-600 flex items-center gap-2">
-              <span className="text-2xl">🦁</span> 12 Con Giáp
-            </h3>
-            <div className="bg-red-100 text-red-600 px-4 py-1 rounded-full font-bold text-sm">
+          <div className="flex justify-between items-start mb-6">
+            <div>
+              <h3 className="text-xl font-bold text-red-600 flex items-center gap-2 mb-2">
+                <span className="text-2xl">🦁</span> 12 Con Giáp
+              </h3>
+              <div className="flex items-center gap-3 text-sm text-gray-700 bg-red-50/50 p-2 rounded-xl border border-red-100">
+                <img src="/avatar.jpg" alt="Avatar GV" className="w-12 h-12 rounded-full object-cover border-2 border-red-200 shadow-sm" />
+                <div className="flex flex-col leading-tight">
+                  <span className="font-bold text-red-600">Giáo viên: Trần Thị Kim Thoa</span>
+                  <span className="font-medium text-gray-800">Trường THPT Hoàng Diệu</span>
+                  <span className="text-gray-500 text-xs mt-0.5">Số 1 Mạc Đĩnh Chi, phường Phú Lợi, thành phố Cần Thơ</span>
+                </div>
+                <img src="/logo.jpg" alt="Logo Trường" className="w-12 h-12 object-contain ml-2" />
+              </div>
+            </div>
+            <div className="bg-red-100 text-red-600 px-4 py-1 rounded-full font-bold text-sm shrink-0">
               Điểm: {progress.totalScore}
             </div>
           </div>

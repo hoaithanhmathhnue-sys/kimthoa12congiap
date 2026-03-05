@@ -5,6 +5,7 @@ import { ZodiacGrid } from './components/ZodiacGrid';
 import { QuizModal } from './components/QuizModal';
 import { SettingsModal } from './components/SettingsModal';
 import { ApiKeyModal } from './components/ApiKeyModal';
+import { LoginScreen } from './components/LoginScreen';
 import { useAppStore } from './hooks/useAppStore';
 import { Zodiac, ZODIACS, SessionData, UserProgress } from './types';
 import confetti from 'canvas-confetti';
@@ -17,9 +18,11 @@ const SPIN_SOUND_URL = 'https://assets.mixkit.co/active_storage/sfx/2003/2003-pr
 const WIN_SOUND_URL = 'https://assets.mixkit.co/active_storage/sfx/1435/1435-preview.mp3';
 
 const SESSION_KEY = 'zodiac_game_session';
+const AUTH_KEY = 'zodiac_game_auth';
 
 function App() {
   const { settings, setSettings, progress, setProgress } = useAppStore();
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
   const [isQuizOpen, setIsQuizOpen] = useState(false);
   const [isSpinning, setIsSpinning] = useState(false);
@@ -204,6 +207,23 @@ function App() {
     };
     frame();
   };
+
+  // Check auth on mount
+  useEffect(() => {
+    const isAuth = sessionStorage.getItem(AUTH_KEY) === 'true';
+    if (isAuth) {
+      setIsAuthenticated(true);
+    }
+  }, []);
+
+  const handleLoginSuccess = () => {
+    setIsAuthenticated(true);
+    sessionStorage.setItem(AUTH_KEY, 'true');
+  };
+
+  if (!isAuthenticated) {
+    return <LoginScreen onLoginSuccess={handleLoginSuccess} />;
+  }
 
   return (
     <div className="min-h-screen tet-gradient pb-20">

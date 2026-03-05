@@ -1,0 +1,218 @@
+{
+  "id": 10,
+  "title": "Đề 10",
+  "mcQuestions": [
+    {
+      "number": 1,
+      "text": "Câu 1",
+      "options": {},
+      "answer": "B"
+    },
+    {
+      "number": 2,
+      "text": "Câu 2",
+      "options": {},
+      "answer": "D"
+    },
+    {
+      "number": 3,
+      "text": "Câu 3",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 4,
+      "text": "Câu 4",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 5,
+      "text": "Câu 5",
+      "options": {},
+      "answer": "D"
+    },
+    {
+      "number": 6,
+      "text": "Câu 6",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 7,
+      "text": "Câu 7",
+      "options": {},
+      "answer": "B"
+    },
+    {
+      "number": 8,
+      "text": "Câu 8",
+      "options": {},
+      "answer": "B"
+    },
+    {
+      "number": 9,
+      "text": "Câu 9",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 10,
+      "text": "Câu 10",
+      "options": {},
+      "answer": "A"
+    },
+    {
+      "number": 11,
+      "text": "Câu 11",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 12,
+      "text": "Câu 12",
+      "options": {},
+      "answer": "B"
+    },
+    {
+      "number": 13,
+      "text": "Câu 13",
+      "options": {},
+      "answer": "A"
+    },
+    {
+      "number": 14,
+      "text": "Câu 14",
+      "options": {},
+      "answer": "B"
+    },
+    {
+      "number": 15,
+      "text": "Câu 15",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 16,
+      "text": "Câu 16",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 17,
+      "text": "Câu 17",
+      "options": {},
+      "answer": "B"
+    },
+    {
+      "number": 18,
+      "text": "Câu 18",
+      "options": {},
+      "answer": "C"
+    },
+    {
+      "number": 19,
+      "text": "Câu 19",
+      "options": {},
+      "answer": "D"
+    },
+    {
+      "number": 20,
+      "text": "Câu 20",
+      "options": {},
+      "answer": "A"
+    },
+    {
+      "number": 21,
+      "text": "Câu 21",
+      "options": {},
+      "answer": "D"
+    },
+    {
+      "number": 22,
+      "text": "Câu 22",
+      "options": {},
+      "answer": "A"
+    },
+    {
+      "number": 23,
+      "text": "Câu 23",
+      "options": {},
+      "answer": "D"
+    },
+    {
+      "number": 24,
+      "text": "Câu 24",
+      "options": {},
+      "answer": "C"
+    }
+  ],
+  "tfQuestions": [
+    {
+      "number": 1,
+      "text": "Câu 1",
+      "items": {},
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": true
+      }
+    },
+    {
+      "number": 2,
+      "text": "Câu 2",
+      "items": {},
+      "answers": {
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+      }
+    },
+    {
+      "number": 3,
+      "text": "Câu 3",
+      "items": {},
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": true,
+        "d": true
+      }
+    },
+    {
+      "number": 4,
+      "text": "Câu 4",
+      "items": {},
+      "answers": {
+        "a": false,
+        "b": false,
+        "c": true,
+        "d": true
+      }
+    },
+    {
+      "number": 5,
+      "text": "Câu 5",
+      "items": {},
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": false,
+        "d": true
+      }
+    },
+    {
+      "number": 6,
+      "text": "Câu 6",
+      "items": {},
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": true,
+        "d": true
+      }
+    }
+  ]
+}

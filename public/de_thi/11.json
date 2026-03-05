@@ -1,0 +1,73 @@
+{
+  "id": 11,
+  "title": "Đề 11",
+  "mcQuestions": [],
+  "tfQuestions": [
+    {
+      "number": 1,
+      "text": "Với tinh thần tương thân tương ái, Đoàn thanh niên trường THPT Thuận An lập dự án bán hàng văn phòng phẩm online để gây quỹ, giúp đỡ những trẻ em ở vùng núi phía Bắc bị ảnh hưởng bởi cơn bão Yagi. Một số bạn đội tuyển Tin học đã tạo CSDL quan hệ Ban_Hang để quản lí việc bán hàng. CSDL được lưu ở máy tính của Đoàn Trường, gồm 3 bảng như sau:\nBảng HANG_HOA gồm các trường: Ma_hang (mã hàng),  Ten_hang (Tên hàng), Gia (giá tiền).\nBang KHACH_HANG gồm các trường: Ma_KH (mã khách hàng), Ho_ten (họ và tên),  Dia_chi (Địa chỉ), SDT (số điện thoại).\nBảng HOA_DON gồm các trường: So_don (mã đơn hàng), Ma_KH, Ma_hang, So_luong (số lượng), Ngay_giao (Ngày giao hàng).\nMột số bạn học sinh đã đưa ra nhận xét như sau:",
+      "items": {
+        "a": "Mỗi bảng trong CSDL được gọi là một quan hệ (Đúng) D2/C1a-B-CC5",
+        "b": "CSDL Ban_Hang là CSDL phân tán. (Sai) D2/C1b-H-CC5",
+        "c": "Để thống kê các hóa đơn được bán trong ngày “20/10/2024” phải sử dụng ba bảng HANG_HOA, KHACH_HANG, HOA_DON.(Đúng) D2/C1c-V-CC5",
+        "d": "Để tính Thành tiền các đơn hàng đã bán cho khách hàng thì cần thiết kế truy vấn và sử dụng nguồn dữ liệu từ hai bảng KHACH HANG và HOA_DON (Sai) D2/C1d-V-CC5"
+      },
+      "answers": {}
+    },
+    {
+      "number": 2,
+      "text": "Bạn A thực hiện tạo website cá nhân gồm các trang web sau: Trang Giới thiệu cung cấp thông tin cá nhân gồm tên, ngày sinh, địa chỉ và mô tả ngắn về bản thân; Trang Dự án cung cấp danh sách dự án tình nguyện mà bạn đã tham gia, trong đó có tên dự án, mô tả nội dung dự án; Trang Blog chia sẻ những suy nghĩ, trải nghiệm về các lĩnh vực mà bạn quan tâm. Các trang đều có liên kết tới trang mạng xã hội của bạn.\nBạn học sinh đó có một số nhận xét sau đây:\nB. Phần riêng.",
+      "items": {
+        "a": "Đăng thông tin như bài viết, hình ảnh về vùng bị ảnh hưởng của thiên tai và viết những bài blog với nội dung chia sẻ chân thành sự đồng cảm của mình với đồng bào bị thiên tai. (Đúng) D2/C2a-B-BC5",
+        "b": "Sau khi xuất bản website ra một địa chỉ trên internet, trang web chỉ hoạt động trên thiết bị duy nhất là máy tính . (Sai) D2/C2b-B-AC1",
+        "c": "Công khai tất cả thông tin cá nhân lên các trang mạng xã hội để mọi người hiểu rõ về mình khi liên kết tới. (Sai) D2/C2c-H-BC4",
+        "d": "Tạo thêm 3 trang web Giới thiệu, Dự án và Blog. Và thực hiện liên kết đến trang web cá nhân chính của mình. (Đúng) D2/C2d-V-CC3"
+      },
+      "answers": {}
+    },
+    {
+      "number": 3,
+      "text": "Trường THPT Thuận An tổ chức thi thử Tốt nghiệp cho học sinh khối 12, mỗi học sinh đều có duy nhất một số báo danh gồm 6 chữ số để dự thi cả 4 môn. Đối với bài thi môn Toán và môn Ngữ văn, bạn Ngân dễ dàng xác định vị trí của mình trong phòng thi, nhưng đối với 2 môn tự chọn thì gặp nhiều khó khăn hơn. Lúc này An đã nghĩ ngay đến việc vận dụng thuật toán để xác định vị trí của mình trong một danh sách theo số báo danh.\nMột số bạn học sinh đưa ra các phát biểu sau:",
+      "items": {
+        "a": "Danh sách số báo danh được coi là mảng một chiều vì các phần tử trong dãy có cùng kiểu dữ liệu. (Đúng) D2/C3a-B-CC1",
+        "b": "Để sử dụng kỹ thuật tìm kiếm nhị phân dãy số cần được sắp xếp. (Đúng) D2/C3b-B-CC2",
+        "c": "Với danh sách số báo danh là [3, 8, 9, 15, 67, 92, 110], để tìm kiếm phần tử có giá trị là 15 áp dụng thuật toán tìm kiếm tuần tự cho kết quả nhanh hơn thuật toán tìm kiếm nhị phân. (Sai) D2/C3c-H-CC2",
+        "d": "Với danh sách số báo danh là [3, 8, 9, 15, 67, 92, 110], để tìm kiếm phần tử có giá trị là 67, dãy con sẽ được tìm kiếm ở lần duyệt thứ 2 khi áp dụng thuật toán tìm kiếm nhị phân vào dãy số trên là [15, 67, 92, 110]. (Sai) D2/C3d-V-CC2"
+      },
+      "answers": {}
+    },
+    {
+      "number": 4,
+      "text": "Học máy đã và đang được sử dụng trong nhiều ứng dụng để nâng cao chất lượng phục vụ người dùng. Sau đây là một số phát biểu về việc học máy trong mạng xã hội Facebook.",
+      "items": {
+        "a": "Facebook chưa tích hợp công cụ Chatbot để hỗ trợ doanh nghiệp và người dùng tương tác tự động trên nền tảng Messenger (SAI) (D2/C4a-B-AS1)",
+        "b": "Facebook sử dụng máy học để gợi ý nội dung cho người dùng dựa trên sở thích của họ. ( Đúng) (D2/C4b-B-AS1)",
+        "c": "Facebook chỉ thu thập dữ liệu thông tin về cá nhân của người dùng để dự đoán hành vi của người dùng và đưa ra các quyết định thông minh. (Sai) (D2/C4c-H-AS1)",
+        "d": "Để giúp hệ thống tự động phát hiện và gỡ bỏ các bài viết vi phạm, mô hình học có giám sát của Facebook được huấn luyện trên các ví dụ chứa ngôn từ thù địch hoặc kích động bạo lực. (Đúng) (D2/C4d-V-AS1)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 5,
+      "text": "Trong giờ thực hành tin học ở trường THPT A, một học sinh thiết kế một cơ sở dữ liệu quản lí điểm học sinh gồm các bảng có cấu trúc như sau:\nBảng HỌC SINH gồm các trường: Mã định danh, Họ tên, Ngày sinh, Giới tính, Địa chỉ, Mã lớp.\nBảng LỚP gồm các trường: Mã lớp, Tên lớp, Giáo viên chủ nhiệm.\nBảng ĐIỂM TỔNG KẾT gồm các trường: Mã định danh, TB Toán, TB Ngữ văn, TB Tiếng Anh, TB Sử, TB Tin, TB CNNN, TB GDKT – PL.\nMột số bạn học sinh đưa ra các phát biểu sau:\nBảng LỚP liên kết với bảng HỌC SINH thông qua trường Mã lớp.\nBảng HỌC SINH liên kết với bảng ĐIỂM TỔNG KẾT thông qua trường Mã định danh. (ĐÚNG)",
+      "items": {
+        "a": "Trong bảng HỌC SINH, chọn kiểu dữ liệu cho trường Ngày sinh là kiểu dữ liệu số. (SAI) (C5a-B-CC5)",
+        "b": "Trong bảng LỚP chọn trường Mã lớp làm khóa chính. (ĐÚNG) (C5b-B-CC5)",
+        "c": "Thiết lập mối quan hệ giữa các bảng như sau: (C5c-H-CC5)",
+        "d": "Để thống kê số lượng học sinh đạt điểm trung bình tất cả các môn đều trên 8.0 thì phải sử dụng cả ba bảng trên. (SAI) (C5d-V-CC7)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 6,
+      "text": "Một bạn học sinh làm trang web giới thiệu về các câu lạc bộ trong trường THPT A với toàn thể học sinh trong và ngoài trường. Trang web bao gồm các mục nội dung chính: Trang chủ, Các câu lạc bộ, Liên hệ. Các bạn đưa ra một vài nhận xét như sau:\n<img src = “CLB_My_Thuat” alt = “Mỹ Thuật” width = “800” height = “300”>. (Sai) (D2/C6c-H-CC3)\nĐƠN VỊ:\nMA TRẬN NỘI DUNG, NĂNG LỰC VÀ CẤP ĐỘ TƯ DUY\nĐỀ THI TỐT NGHIỆP THPT\nMôn: Tin học\nThời gian làm bài: 50 phút, không kể thời gian phát đề",
+      "items": {
+        "a": "Có thể nhập nội dung bài viết của các câu lạc bộ vào trang web trong khung soạn thảo văn bản hoặc chọn các khối mẫu được xây dựng sẵn và thực hiện tùy chỉnh nội dung, định dạng văn bản. (Đúng) (D2/C6a-B-CC3)",
+        "b": "Các đối tượng như hình ảnh, video riêng lẻ cập nhật quá trình hoạt động của các câu lạc bộ chỉ được sắp xếp dưới dạng lưới và dạng danh sách. (Sai) (D2/C6b-B-CC3)",
+        "c": "Để chèn thêm hình ảnh có tên CLB_My_Thuat.png vào trang web với kích thước 800x300, bạn C đã đưa ra lệnh như sau:",
+        "d": "Sau khi hoàn thành, có thể xuất bản website ra một địa chỉ trên Internet để mọi người có thể xem được trên máy tính và các thiết bị thông minh. (Đúng) (D2/C6d-V-AI1)"
+      },
+      "answers": {}
+    }
+  ]
+}

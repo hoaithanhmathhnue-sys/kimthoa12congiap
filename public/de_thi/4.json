@@ -1,0 +1,350 @@
+{
+  "id": 4,
+  "title": "Đề 4",
+  "mcQuestions": [
+    {
+      "number": 1,
+      "text": "Xe tự lái là ứng dụng của AI trong lĩnh vực nào?",
+      "options": {},
+      "answer": "B"
+    },
+    {
+      "number": 2,
+      "text": "AI trong giáo dục có thể hỗ trợ gì?",
+      "options": {},
+      "answer": "A"
+    },
+    {
+      "number": 3,
+      "text": "Deep Learning là gì?",
+      "options": {},
+      "answer": "A"
+    },
+    {
+      "number": 4,
+      "text": "Giao thức nào sau đây dùng để trao đổi dữ liệu giữa máy tính và máy chủ web?",
+      "options": {
+        "A": "HTTP.",
+        "B": "FTP",
+        "C": "POP3",
+        "D": "IMAP"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 5,
+      "text": "Địa chỉ IP là gì?",
+      "options": {
+        "A": "Một số nhận diện duy nhất cho mỗi thiết bị trên mạng.",
+        "B": "Một loại cáp mạng",
+        "C": "Một giao thức truyền tải dữ liệu",
+        "D": "Một ứng dụng mạng"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 6,
+      "text": "Giao thức TCP đảm bảo điều gì trong quá trình truyền dữ liệu?",
+      "options": {
+        "A": "Đảm bảo dữ liệu được truyền đầy đủ và chính xác.",
+        "B": "Tăng tốc độ truyền dữ liệu",
+        "C": "Giảm thiểu số lượng gói tin",
+        "D": "Kết nối nhanh chóng"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 7,
+      "text": "Địa chỉ IP khác với địa chỉ MAC ở điểm nào?",
+      "options": {
+        "A": "IP là địa chỉ phần cứng, MAC là địa chỉ logic",
+        "B": "IP là địa chỉ cố định, MAC là địa chỉ tạm thời",
+        "C": "IP là địa chỉ của giao diện mạng, MAC là địa chỉ của thiết bị vật lý.",
+        "D": "IP là địa chỉ trong mạng LAN, MAC là địa chỉ trong mạng WAN"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 8,
+      "text": "Để điều khiển tăng độ sáng của đèn thông minh qua điện thoại, bạn cần thực hiện thao tác nào?",
+      "options": {
+        "A": "Gạt thanh ngang từ trái sang phải để tăng độ sáng.",
+        "B": "Nhấn và di chuyển điểm tròn theo hướng ngược chiều kim đồng hồ để tăng độ sáng",
+        "C": "Gạt thanh ngang từ phải sang trái để tăng độ sáng",
+        "D": "Nhấn và di chuyển điểm tròn theo hướng chiều kim đồng hồ để tăng độ sáng"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 9,
+      "text": "Khi vào mạng xã hội, em xem được một video phê phán, chỉ trích một số cá nhân lợi dụng việc làm từ thiện để trục lợi, đồng thời họ kêu gọi mọi người hãy chia sẻ mạnh mẽ video này tới mọi người. Trong trường hợp này, em sẽ",
+      "options": {
+        "A": "Thả thích hoặc yêu thích vào video vừa xem vì thấy chê trách rất đáng",
+        "B": "Bình luận chê trách những người mà video đề cập tới",
+        "C": "Chia sẻ ngay video vừa xem được để nhiều người cùng biết",
+        "D": "Không làm gì cả vì mình chưa biết rõ video đó có nói đúng không."
+      },
+      "answer": "D"
+    },
+    {
+      "number": 10,
+      "text": "Cách nào sau đây giúp giữ gìn tính nhân văn trong thế giới ảo?",
+      "options": {
+        "A": "Cẩn trọng trong việc chia sẻ thông tin.",
+        "B": "Chỉ chia sẻ thông tin mà mình thích",
+        "C": "Không cần quan tâm đến thông tin sai lệch",
+        "D": "Đăng tải thông tin không kiểm chứng để thu hút sự chú ý"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 11,
+      "text": "Một trong những nhược điểm của giao tiếp qua thế giới ảo là gì?",
+      "options": {
+        "A": "Mất thời gian di chuyển",
+        "B": "Giới hạn về thời gian giao tiếp",
+        "C": "Thiếu sự tương tác phi ngôn ngữ.",
+        "D": "Giảm chi phí liên lạc"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 12,
+      "text": "Nếu bạn vô tình đăng tải một thông tin sai lệch, bạn nên:",
+      "options": {
+        "A": "Lờ đi và để mặc cho mọi người tự tìm hiểu",
+        "B": "Gỡ bài đăng và xin lỗi nếu cần thiết.",
+        "C": "Giải thích rằng đó chỉ là một sự cố không đáng chú ý",
+        "D": "Cố gắng bảo vệ bài đăng của mình"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 13,
+      "text": "Ngôn ngữ đánh dấu siêu văn bản được sử dụng chủ yếu để làm gì?",
+      "options": {
+        "A": "Tạo bảng tính                                   \tB. Tạo trang web.",
+        "C": "Lập trình ứng dụng                              D. Xử lý dữ liệu"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 14,
+      "text": "Thẻ nào trong HTML được sử dụng để tạo bảng?",
+      "options": {
+        "A": "<table>",
+        "B": "<tab>",
+        "C": "<btable>.",
+        "D": "<grid>"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 15,
+      "text": "Phần nào của tài liệu HTML chứa nội dung sẽ hiển thị trên màn hình của trình duyệt web?",
+      "options": {
+        "A": "Phần đầu.",
+        "B": "Phần chân",
+        "C": "Phần thân",
+        "D": "Phần meta"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 16,
+      "text": "Trong HTML, điều khiển nhập xâu kí tự nào sau đây là đúng?",
+      "options": {
+        "A": "<input type=\"text\" name=“Tên_điều_khiển” value=“Giá trị”>.",
+        "B": "<input type=\"lable\" name=“Tên_điều_khiển” value=“Giá trị”>",
+        "C": "<input type=\"audio\" name=“Tên_điều_khiển” value=“Giá trị”>",
+        "D": "<input type=\"checkbox\" name=“Tên_điều_khiển” value=“Giá trị”>"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 17,
+      "text": "Điều khiển sau thực hiện công việc gì?\nMật khẩu: <input type= “password” name= “Matkhau”>",
+      "options": {
+        "A": "Hiển thị dòng có nhãn Mật khẩu và ô password để người dùng nhập mật khẩu.",
+        "B": "Hiển thị dòng có nhãn Matkhau và ô password để người dùng nhập mật khẩu",
+        "C": "Hiển thị dòng có nhãn password và ô Matkhau để người dùng nhập mật khẩu"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 18,
+      "text": "Để hiển thị lựa chọn với nhãn ‘Chấp nhận’, trong đó giá trị được gửi là ‘C’, trong HTML cách viết nào sau đây là đúng?",
+      "options": {
+        "A": "<input type= \"radio\" name=\"checkco\" value=\"C\"> Chấp nhận.",
+        "B": "<input type= \" checkco\" name=\"radio\" value=\"Chấp nhận\"> Đồng ý",
+        "C": "<input type= \"radio\" name=\"checkco\" value=\"Chấp nhận\"> Đồng ý",
+        "D": "<input type= \" checkco\" name=\"radio\" value=\"C\"> Chấp nhận"
+      },
+      "answer": "A"
+    },
+    {
+      "number": 19,
+      "text": "Đoạn mã HTML của câu “Chiến dịch Điện Biên Phủ : Kết thúc cuộc kháng chiến chống thực dân Pháp và can thiệp Mỹ.” là:",
+      "options": {
+        "A": "<p>Chiến dịch <i> Điện Biên Phủ </i> <b>(13-3/7-5-1954):</b> Kết thúc cuộc kháng chiến chống thực dân Pháp và can thiệp Mỹ.</p>",
+        "B": "<p>Chiến dịch <u> Điện Biên Phủ </u> <b>(13-3/7-5-1954):</b> Kết thúc cuộc kháng chiến chống thực dân Pháp và can thiệp Mỹ.</p>",
+        "C": "<p>Chiến dịch <i> Điện Biên Phủ </i> <u>(13-3/7-5-1954):</u> Kết thúc cuộc kháng chiến chống thực dân Pháp và can thiệp Mỹ.</p>",
+        "D": "<p>Chiến dịch <b> Điện Biên Phủ </b> <i>(13-3/7-5-1954):</i> Kết thúc cuộc kháng chiến chống thực dân Pháp và can thiệp Mỹ.</p>."
+      },
+      "answer": "D"
+    },
+    {
+      "number": 20,
+      "text": "Để đặt padding màu xanh lam, trên và dưới cùng bằng 10px và bo góc có bán kính 10px cho các hình ảnh đặt trong phần tử HTML có id là image-style, cách khai báo nào sau đây là chính xác?",
+      "options": {
+        "A": ".image-style img { padding: 10px 0px; border-radius: 10px; background-color: blue;}",
+        "B": "image-style .img { padding: 10px 0px; border-radius: 10px; background-color: blue;}",
+        "C": "#image-style img { padding-top: 10px; padding-bottom: 10px; border-radius: 10px; background-color: blue;}.",
+        "D": ".image-style img { padding: 0px 10px; background-color: blue; border-radius: 10px; }"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 21,
+      "text": "Kiểm thử viên phần mềm chịu trách nhiệm chính trong việc gì?",
+      "options": {
+        "A": "Viết mã nguồn cho phần mềm",
+        "B": "Quản lý dự án phát triển phần mềm",
+        "C": "Chạy thử phần mềm để tìm lỗi.",
+        "D": "Thiết kế giao diện người dùng"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 22,
+      "text": "Nhà phát triển trang web cần làm gì để đảm bảo trang web hoạt động tốt?",
+      "options": {
+        "A": "Thiết kế giao diện và menu điều hướng",
+        "B": "Quản lý dữ liệu tài chính",
+        "C": "Viết mã cho ứng dụng di động",
+        "D": "Kiểm tra hoạt động của trang web và khắc phục sự cố."
+      },
+      "answer": "D"
+    },
+    {
+      "number": 23,
+      "text": "Kĩ thuật viên công nghệ thông tin KHÔNG thực hiện công việc nào sau đây?",
+      "options": {
+        "A": "Lắp đặt thiết bị phần cứng và thiết lập kết nối mạng",
+        "B": "Quản lí thiết bị mạng và điều chỉnh hiệu năng mạng.",
+        "C": "Khắc phục lỗi máy tính cho khách hàng",
+        "D": "Cài đặt và nâng cấp phần mềm trên máy tính của nhân viên"
+      },
+      "answer": "B"
+    },
+    {
+      "number": 24,
+      "text": "Ở tiết 1 của bài dự án, nhóm em được phân công tìm hiểu nghề Bảo mật hệ thống thông tin. Em được phân công tìm hiểu về thời gian, địa điểm làm việc, lương, suy nghĩ của những người đó. Em đã tìm hiểu và hoàn thành nhanh chóng. Để có bài báo cáo ở tiết 2, nhóm em chuẩn bị họp nhóm để hoàn thành báo cáo. Khi được yêu cầu họp nhóm, em sẽ:",
+      "options": {
+        "A": "Không tham gia mà chỉ nộp bài vì phần việc mình đã xong",
+        "B": "Tham gia, nộp bài và không thảo luận thêm gì",
+        "C": "Trình bày phần bài của mình còn phần bài của người khác thì không có ý kiến",
+        "D": "Trình bày phần bài của mình để mọi người góp ý và cũng góp ý phần bài của những bạn khác."
+      },
+      "answer": "D"
+    }
+  ],
+  "tfQuestions": [
+    {
+      "number": 1,
+      "text": "Một cửa hàng bán đồ điện tử gia dụng cần quản lý việc bán hàng, chủ cửa hàng đã xây dựng một CSDL gồm các bảng có cấu trúc như sau:\nMATHANG (MMH, TENMH, SLT, GG) để lưu trữ: Mã mặt hàng, Tên mặt hàng, Số lượng tồn, Giá gốc.\nBANHANG (SODON, MMH, NB, SLB, GB) để lưu trữ: Số hoá đơn, Mã mặt hàng, Ngày bán, Số lượng bán, Giá bán. Mỗi lần bán có một Số hoá đơn duy nhất.\nMột số bạn học sinh đưa ra các phát biểu sau:\nSELECT MATHANG.TENMH, BANHANG.NB\nFROM MATHANG INNER JOIN BANHANG ON MATHANG.MMH=BANHANG.MMH\nWHERE BANHANG.NB>#10/15/2024#; (Sai)",
+      "items": {
+        "a": "(11F-B-CC5). TENMH là một trường tương ứng với một cột của bảng MATHANG. (Đúng)",
+        "b": "(11F-H-CC5). Thuộc tính MMH là khoá chính của bảng MATHANG và cũng là khoá chính của bảng BANHANG. (Sai)",
+        "c": "(11F-H-CC5). Cửa hàng dùng một máy chủ để lưu trữ dữ liệu, vì vậy cơ sở dữ liệu để quản lí việc bán hàng trên là cơ sở dữ liệu tập trung. (Đúng)",
+        "d": "(11F-V-CC5). Câu lệnh SQL sau đây để hiển thị Tên và Ngày bán của các mặt hàng bán trước ngày 15/10/2024."
+      },
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": true,
+        "d": false
+      }
+    },
+    {
+      "number": 2,
+      "text": "Câu lạc bộ tin học của trường Tố Hữu muốn đăng thông báo tuyển thành viên lên mạng với nội dung như sau:\nGiáo viên yêu cầu học sinh phát biểu về mã lệnh HTML tương ứng để hiển thị nội dung này lên trang web. Một số bạn học sinh đưa ra các phát biểu sau:\n<input type=\"radio\" name= \"opttime\"> Lớp 10\n<input type=\"radio\" name= \"opttime\"> Lớp 11\n<input type=\"radio\" name= \"opttime\"> Lớp 12\n(Đúng)\n<input type=\"submit\" name=\"subdangki\" value=\"Đăng kí\"> hoặc\n<input type= \"checkbox\" name=\" subdangki\"> Đăng kí\n(Sai)",
+      "items": {
+        "a": "(12F-B-CC3) Để khai báo dòng đầu tiên ta dùng thẻ <title> (Sai)",
+        "b": "(12F-H-CC3)  Để hiển thị các dòng Họ và tên, Địa chỉ email, Số điện thoại ta dùng thẻ <p> (Đúng)",
+        "c": "(12F-V-CC3) Để hiển thị Dòng các lớp ta viết:",
+        "d": "(12F-V-CC3). Để viết dòng Đăng kí, ta có thể viết"
+      },
+      "answers": {
+        "a": false,
+        "b": true,
+        "c": true,
+        "d": false
+      }
+    },
+    {
+      "number": 3,
+      "text": "Trong buổi chào cờ đầu tuần, Đoàn trường đã điều hành các lớp xếp hàng theo đúng vị trí đã chỉ định. Để đảm bảo không bị xáo trộn tất cả các học sinh đã đứng đúng hàng của lớp mình và không gây mất trật tự chung, Đoàn trường yêu cầu các lớp thực hiện sắp xếp thứ tự chiều cao của các bạn học sinh trong lớp theo thuật toán sau :\nMột số bạn học sinh đã đưa ra nhận xét sau:",
+      "items": {
+        "a": "(11F-B-CS2) Dữ liệu lưu trong mảng a gồm n số được đánh số thứ tự bắt đầu là 0. (Đúng)",
+        "b": "(11F-H-CS2) Hàm sort thực hiện chức năng sắp xếp theo thứ tự tăng dần. (Đúng)",
+        "c": "(11F-V-CS2) Với chiều cao (cm) các bạn trong một lớp như sau: 165, 159, 160, 174, 156, 167, thì sau khi sắp xếp kết quả là: 174, 167, 165, 160, 159, 156. (Sai)",
+        "d": "(11F-V-CS2) Với chiều cao (cm) các bạn trong một lớp như sau: 165, 159, 160, 174, 156, 167, thì câu lệnh a[j+1] = a[j] được thực hiện 7 lần. (Đúng)"
+      },
+      "answers": {
+        "a": true,
+        "b": true,
+        "c": false,
+        "d": true
+      }
+    },
+    {
+      "number": 4,
+      "text": ". Bệnh tim là một vấn đề sức khỏe nghiêm trọng trên toàn thế giới vì nó cướp đi sinh mạng của nhiều người, những người có thể đã được điều trị nếu căn bệnh này được phát hiện sớm hơn. Một nhóm học sinh đã xây dựng mô hình học máy theo phương pháp mạng nơ-ron nhân tạo với bộ dữ liệu 1190 bộ dữ liệu để chẩn đoán bệnh tim. Sau khi hoàn thành, nhóm học sinh đã thực hiện với các mẫu bệnh án tại bệnh viên Y cho kết quả tỷ lệ chính xác lên đến 78%.\nMột số bạn học sinh đưa ra các phát biểu sau:",
+      "items": {
+        "a": "(12F-B-CS4) Phương pháp học máy của nhóm học sinh là theo mô hình học không giám sát (Sai).",
+        "b": "(12F-H-CS4) Mạng nơ-ron nhân tạo là một trong nhiều phương pháp học máy về phân lớp dữ liệu để chẩn đoán bệnh tim. (Đúng)",
+        "c": "(12F-V-CS4) Chương trình dự đoán với tỷ lệ chưa cao do dữ liệu huấn luyện trên 1000 bộ là quá lớn gây ra nhiễu trong quá trình học của máy. (Sai)",
+        "d": "(12F-V-CS4) Sản phẩm của nhóm học sinh này có thể áp dụng với tất cả các đối tượng tại các bệnh viện trên cả nước trong việc hỗ trợ các bác sĩ chẩn đoán về bệnh tim. (Sai)"
+      },
+      "answers": {
+        "a": false,
+        "b": true,
+        "c": false,
+        "d": false
+      }
+    },
+    {
+      "number": 5,
+      "text": "Một nhóm học sinh sử dụng phần mềm quản trị CSDL để tạo lập một CSDL quản lí nhân viên trong một công ty bao gồm bảng NHAN_VIEN lưu thông tin về các nhân viên. Dữ liệu ví dụ của bảng được minh họa như hình dưới đây. Trong đó, mỗi nhân viên có một mã nhân viên khác nhau theo quy định riêng của công ty. Mỗi nhân viên có một số thẻ căn cước công dân duy nhất\nSau đây là ý kiến của nhóm học sinh đó về việc tạo bảng NHAN_VIEN nói trên:\nThì không nhập được vì vi phạm ràng buộc về khóa. (11F-V-AI2) (Đúng)",
+      "items": {
+        "a": "Định nghĩa trường Can_Cuoc_Cong_Dan và So_dien_thoai là kiểu dữ liệu là số nguyên. (11F-B-AI2) (Sai)",
+        "b": "Mỗi nhân viên có một mã nhân viên duy nhất và có số căn cước công dân riêng nên 2 trường Ma_nhan_vien và Can_Cuoc_Cong_Dan phải là khóa chính của bảng NHAN_VIEN. (11F-H-AI2) (Sai)",
+        "c": "Thiết kế truy vấn SQL để tạo ra danh sach học sinh có năm sinh 1985 bằng câu lệnh như sau: SELECT [Ho_ten], [Ngay_sinh] FROM [NHAN_VIEN] WHERE  year([Ngay_sinh]) = 1985. (11F-V-AI2) (Đúng)",
+        "d": "Nhập thêm bản ghi mới bằng cách mở bảng NHAN_VIEN ra rồi gõ ở bản ghi trống cuối với nội dung như sau"
+      },
+      "answers": {
+        "a": false,
+        "b": false,
+        "c": true,
+        "d": true
+      }
+    },
+    {
+      "number": 6,
+      "text": "Thùy Linh muốn tạo 1 trang Web cung cấp tài liệu cho học sinh tự học môn Tin học. Trang Web sẽ gồm 3 trang chính là giới thiệu, tài liệu và liên hệ. Thùy Linh cần tạo phần đầu trang cho tất cả các trang của website có thanh điều hướng, trong đó 1 mục liên kết tới 1 trang Web trong  website.\nVới tình huống trên, một số bạn đưa ra các phát biểu như sau:\nPHẦN I.\n(Mỗi câu trả lời đúng thí sinh được 0,25 điểm)\nĐiểm tối đa của 01 câu hỏi là 1 điểm\n- Thí sinh chỉ lựa chọn chính xác 01 ý trong 01 câu hỏi được 0,1 điểm;\n- Thí sinh chỉ lựa chọn chính xác 02 ý trong 01 câu hỏi được 0,25 điểm;\n- Thí sinh chỉ lựa chọn chính xác 03 ý trong 01 câu hỏi được 0,5 điểm;\n- Thí sinh lựa chọn chính xác cả 04 ý trong 01 câu hỏi được 1 điểm.",
+      "items": {
+        "a": "Wedsite sẽ bao gồm 3 tập tin có phần mở rộng là .HTML. (12E-B-AI2) (Đúng)",
+        "b": "Thanh điều hướng luôn cố định nằm bên trái của phần đầu trang. (12E-H-AI2) (Sai)",
+        "c": "Khi thay đổi tên trang Tài liệu thành Học liệu thì mục Tài liệu trên thanh điều hướng cũng đổi tên thành Học liệu. (12E-V-AI2) (Đúng)",
+        "d": "Thực hiện chức năng publish để xuất bản website dưới dạng các tập tin và tải lên máy chủ trên internet để người dùng có thể truy cập vào website đó. (12E-V-AI2) (Đúng)"
+      },
+      "answers": {
+        "a": true,
+        "b": false,
+        "c": true,
+        "d": true
+      }
+    }
+  ]
+}

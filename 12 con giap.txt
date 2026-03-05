@@ -1,0 +1,13 @@
+#	Con giáp Địa chi
+1	🐭 Chuột Tý
+2	🐂 Trâu	Sửu
+3	🐯 Hổ	Dần
+4	🐱 Mèo	Mão
+5	🐉 Rồng	Thìn
+6	🐍 Rắn	Tỵ
+7	🐴 Ngựa	Ngọ
+8	🐐 Dê	Mùi
+9	🐒 Khỉ	Thân
+10	🐓 Gà	Dậu
+11	🐕 Chó	Tuất
+12	🐷 Heo	Hợi

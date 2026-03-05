@@ -1,0 +1,96 @@
+{
+  "id": 8,
+  "title": "Đề 8",
+  "mcQuestions": [
+    {
+      "number": 7,
+      "text": "Chức năng nào sau đây không phải là chức năng của Hệ điều hành :",
+      "options": {
+        "A": "Tạo và tổ chức lưu trữ các tệp trên bộ nhớ ngoài",
+        "B": "Kiểm tra và hỗ trợ bằng phần mềm cho các thiết bị ngoại vi",
+        "C": "Thực hiện tìm kiếm, lưu trữ thông tin trên Internet.",
+        "D": "Cung cấp phương thức giao tiếp để người dùng điều khiển máy tính"
+      },
+      "answer": "C"
+    },
+    {
+      "number": 8,
+      "text": "Phát biểu nào sau đây đúng?\nCâu 9 (12D,B,BC5). Phương án nào sau đây KHÔNG thuộc về quyền của người dùng trong môi trường số?\nCâu 10 (12D,H,BC5). Phát biểu nào sau đây thể hiện tính nhân văn khi tham gia trong không gian mạng?\nCâu 11(12D,V,BC4). Khi tham gia khoá học trực tuyến, bạn Nam nhận thấy một số trường hợp học liệu không được cập nhật hoặc không đảm bảo về chất lượng giảng dạy. Phương án nào sau đây thể hiện nhược điểm chính của khóa học mà bạn Nam đang tham gia?\nCâu 12 (12F,B,CC3). Trong HTML, khi chèn hình ảnh vào trang web, thuộc tính nào sau đây được sử dụng để cung cấp văn bản thay thế (hiển thị khi hình ảnh không thể tải)?\nCâu 13(12F,B,CC3). Trong một văn bản HTML, thẻ nào sau đây dùng để khai báo tiêu đề trang web, các siêu dữ liệu mô tả thông tin về trang web ?\nCâu 14(12F,V,CC3.) Để chèn một liên kết vào trang web sao cho khi người dùng nhấp vào, liên kết sẽ mở trong một tab mới của trình duyệt. Đoạn mã HTML nào sau đây thực hiện đúng yêu cầu?\nCâu 15(12F, V, CC3). Trong HTML để nhúng một video từ YouTube vào trang web, thuộc tính nào sau đây cần thiết trong thẻ <iframe> để video tự động phát khi tải trang?\nCâu 16(12F,V,CC3). Trong tệp ‘index.html’ cần tạo liên kết ‘Sở thích’ đến tới tệp ‘hobbies.html’, biết 2 tệp này nằm cùng thư mục ‘webcanhan’. Trong tệp ‘index.html’ cần sử dụng liên kết nào sau đây ?\n<a href = “webcanhan/hobbies.html”> Sở thích </a>\n<a href = “hobbies.html”> Sở thích </a>.\n<a href = “/webcanhan/hobbies.html”> Sở thích </a>\n<a href = “/hobbies.html”> Sở thích </a>\nCâu 17(12G, H, CC9). Phát biểu nào sau đây mô tả sai về nghề Bảo mật hệ thống thông tin?\nCâu 18 (12G, B, CC9). Phát biểu nào sau đây mô tả đúng về nghề Quản trị mạng và hệ thống?\nCâu 19(12G, B, CC9). Phát biểu nào sau đây mô tả đúng về nghề Sửa chữa và bảo trì máy tính?\nCâu 20(12G,B,CC9). Căn cứ vào Quyết định số 699/QĐ-BTTTT ngày 03/05/2024 Bô Thông tin truyền thông phê duyệt kế hoạch hành động năm 2024 triển khai chiến lược phát triển ứng dụng trí tuệ nhân tạo đến năm 2030, đến năm 2030 dịch vụ công trực tuyến toàn trình có ứng dụng AI(ví dụ: sử dụng trợ lý ảo, trả lời tự động, robot phần mềm…) hỗ trợ người dân, doanh nghiệp đạt bao nhiêu phần trăm?\nCâu 21(10F,H,CC1). Phát biểu nào sau đây chưa đúng về kiểu dữ liệu có cấu trúc?\nCâu 22(10F,V,CC1). Chọn một trong hai ngôn ngữ Python hoặc C++ để xem xét đoạn chương trình sau:\nHãy cho biết đoạn chương trình trên thực hiện công việc gì?\nCâu 23 (11F,H,CC5). Phương án nào sau đây sai khi phát biểu về hệ cơ sở dữ liệu?\nCâu 24(11F,V,CC5). Giả sử Cơ sở dữ liệu Thư viện có bảng MƯỢN_TRẢ liên kết với bảng NGƯỜI_ĐỌC qua khoá ngoài là Số thẻ TV như sau:\nBảng MƯỢN_TRẢ\t\t\tBảng NGƯỜI_ĐỌC\nPhương án nào sau đây đúng khi phát biểu về cơ sở dữ liệu Thư viện?",
+      "options": {
+        "A": "Có thể cập nhật thêm một bản ghi cho bảng MƯỢN_TRẢ với dữ liệu tương ứng như sau:",
+        "B": "Có thể cập nhật thêm một bản ghi cho bảng NGƯỜI_ĐỌC với dữ liệu tương ứng như sau:.",
+        "C": "Có thể chọn tập hợp gồm 2 trường: Số thẻ TV và Họ tên làm khoá của bảng NGƯỜI_ĐỌC",
+        "D": "Thuộc tính Số thẻ TV là khoá ngoài của bảng MƯỢN_TRẢ nên cũng phải là khoá chính của bảng MƯỢN_TRẢ"
+      },
+      "answer": "B"
+    }
+  ],
+  "tfQuestions": [
+    {
+      "number": 1,
+      "text": "Một phòng thực hành tin học có 30 máy tính đã được lắp mạng LAN. Nhà trường đã đăng kí sử dụng Internet với nhà cung cấp dịch vụ và được họ lắp một Modem tích hợp chức năng của Router và Access Point. Để đảm bảo việc dạy và học môn Tin học có hiệu quả nhà trường muốn bổ sung thêm 20 máy tính mới kết nối vào mạng LAN của phòng thực hành.\nNhận định về hệ thống máy tính của phòng thực hành, một học sinh đã có những phát biểu sau:",
+      "items": {
+        "a": "Thiết bị Access Point được dùng để cung cấp kết nối không dây cho các thiết bị trong mạng cục bộ. (D2/C1a-B-AC6). (Đ)",
+        "b": "Một trong số thiết bị mạng phải có để máy tính có thể kết nối với Internet là Modem. (D2/C1b-B-AC7) (Đ)",
+        "c": "Học sinh muốn lưu trữ dữ liệu trực tuyến (như google Drive) thì nhà trường phải đăng kí thêm dịch vụ lưu trữ với nhà cung cấp mạng. (D2/C1c-H-AC7) (S)",
+        "d": "Muốn kết nối thêm 20 máy tính vào mạng LAN thì mỗi máy tính cần dùng dây cáp: một đầu gắn với máy tính, một đầu gắn với Modem. (D2/C1d-V-AC7) (S)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 2,
+      "text": "Bạn Nam sử dụng phần mềm tạo web để thiết kế một trang web cá nhân giới thiệu bản thân, bao gồm các thông tin như họ tên, sở thích, hình ảnh, và liên kết đến các mạng xã hội cá nhân. Sau quá trình tạo bạn đã đưa ra các phát biểu sau:",
+      "items": {
+        "a": "Học sinh phải có kiến thức về lập trình Python. (D2/C2a-B-CC3) (S)",
+        "b": "Phải thành thạo về văn bản HTML. (D2/C2b-H-CC3) (Đ)",
+        "c": "Cần định hình được ý tưởng cho trang web. (D2/C2c-H-CC3) (Đ)",
+        "d": "Sử dụng thẻ <figure> và <figcaption> là cách tốt nhất để nhóm một hình ảnh và chú thích của nó trong HTML. (D2/C2d-V-CC3) (Đ)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 3,
+      "text": "Trong đợt ủng hộ các tỉnh thành khu vực phía Bắc bị ảnh hưởng của bão Yagi, Trung ương Mặt trận tổ quốc Việt Nam đã công bố sao kê tiền ủng hộ thông qua tài khoản của các ngân hàng là một hình thức công khai, minh bạch về huy động các nguồn lực của nhân dân. Trong đó công nghệ OCR là công nghệ giúp chuyển đổi hình ảnh chứa văn bản thành văn bản kỹ thuật số đã được áp dụng để tự động hóa quá trình xử lý sao kê ngân hàng.\nMột số bạn học sinh đưa ra các phát biểu sau:",
+      "items": {
+        "a": "OCR là công nghệ giúp nhận dạng và trích xuất thông tin từ sao kê ngân hàng bằng cách quét các tài liệu sao kê giấy hoặc ảnh chụp. (D2/C3a-B-CS4) (Đ)",
+        "b": "Hệ thống OCR có thể tự động nhận diện chính xác thông tin từ mọi loại sao kê mà không cần được huấn luyện với dữ liệu mẫu từ các định dạng sao kê khác nhau. (D2/C3b-H-CS4) (S)",
+        "c": "Học máy tích hợp vào OCR có thể được huấn luyện để phát hiện các mẫu giao dịch bất thường trong sao kê ngân hàng, từ đó giúp phát hiện gian lận tài chính. (D2/C3c-H-CS4) (Đ)",
+        "d": "Học máy chỉ có thể hoạt động trên các sao kê được in rõ ràng và không hoạt động được trên các sao kê có chất lượng hình ảnh thấp. (D2/C3d-V-CS4) (S)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 4,
+      "text": "Xét đoạn mã giả mô tả thuật toán Tìm kiếm nhị phân trên một mảng số nguyên đã được sắp xếp theo thứ tự tăng dần như sau:\nCác bạn học sinh nêu ra các ý kiến như sau:",
+      "items": {
+        "a": "Thuật toán tìm kiếm nhị phân yêu cầu mảng đầu vào phải được sắp xếp theo thứ tự tăng dần thì mới hoạt động đúng. (D2/C4a-B-CS2) (Đ)",
+        "b": "Biến mid trong thuật toán luôn là chỉ số của phần tử nằm giữa mảng con đang được xem xét. (D2/C4b-B-CS2) (Đ)",
+        "c": "Nếu giá trị cần tìm không tồn tại trong mảng, thuật toán sẽ trả về chỉ số của phần tử lớn nhất trong mảng. (D2/C4c-H-CS2) (S)",
+        "d": "Độ phức tạp thời gian của thuật toán tìm kiếm nhị phân trong trường hợp tốt nhất là O(1). (D2/C4d-V-CS2) (Đ)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 5,
+      "text": "Một bạn học sinh muốn tạo trang web giới thiệu về du lịch của thành phố Huế. Trang web sẽ bao gồm ba trang chính là Địa điểm du lịch, Quán ăn, và Lưu trú. Bạn học sinh cần tạo phần đầu trang cho tất cả các trang của website có thanh điều hướng , trong đó mỗi mục liên kết tới một trang trong website.\nVới tình huống trên, một số bạn đưa ra các phát biểu dưới đây:",
+      "items": {
+        "a": "Website sẽ bao gồm 3 tệp tin có phần mở rộng là html. (D2/C5a-B-CC3) (Đ)",
+        "b": "Thanh điều hướng luôn cố định ở góc trên bên phải của phần đầu trang. (D2/C5b-B-CC3) (S)",
+        "c": "Thanh điều hướng có 3 mục có tên Địa điểm du lịch, Quán ăn và Lưu trú. (D2/C5c-H-CC3) (Đ)",
+        "d": "Khi bạn học sinh thay đổi tên trang Lưu trú thành Khách sạn, bạn cũng cần chỉnh sửa tên mục Lưu trú trên thanh điều hướng thành Khách sạn. (D2/C5d-V-CC3) (Đ)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 6,
+      "text": "Cơ sở dữ liệu quản lý việc mượn – trả sách của thư viện một trường THPT có tên là QL_THUVIEN, gồm có 3 bảng sau:\n- Bảng HOC_SINH (MaHS, HoTen, NgaySinh, Lop, NamHoc) lưu thông tin về học sinh, gồm: Mã học sinh, họ tên, ngày sinh, lớp, năm học.\n- Bảng SACH (MaSach, TenSach, TacGia, NhaXuatBan, SoTrang) lưu thông tin về các cuốn sách có trong thư viện, gồm: Mã sách, tên sách, tác giả, nhà xuất bản, số trang.\n- Bảng MUON_TRA (MaHS, MaSach, NgayMuon, NgayTra) lưu thông tin về các hoạt động mượn sách.\nTrong trường hợp người đọc làm mất sách phải đền bù gấp 2 lần giá sách.\nMột số bạn học sinh đưa ra các phát biểu sau:\nĐề gốc từ trường THPT Đặng Trần Côn\t\t\t\tGiáo viên thẩm định\nTRẦN THỊ QUẾ VY",
+      "items": {
+        "a": "Khoá chính của bảng HOC_SINH là trường Hoten. (D2/C6a-B-AI2) (S)",
+        "b": "Để ghi nhận một hoạt động trả sách từ một học sinh, ta cần nhập thông tin NgayTra vào bảng MUON_TRA (D2/C6b-H-AI2) (Đ)",
+        "c": "Để nhập một cuốn sách mới mà thu viện mới mua về ta cần nhập thông tin vào bảng SACH. (D2/C6c-H-AI2) (Đ)",
+        "d": "Để lưu trữ thông tin giải quyết trường hợp người mượn làm mất sách, có thể thêm cột GiaTien vào bảng MUON_TRA (D2/C6d-V-AI2) (S)"
+      },
+      "answers": {}
+    }
+  ]
+}

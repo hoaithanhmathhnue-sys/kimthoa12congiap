@@ -1,0 +1,316 @@
+{
+  "id": 3,
+  "title": "Đề 3",
+  "mcQuestions": [
+    {
+      "number": 1,
+      "text": "Lĩnh vực nào sau đây KHÔNG được phát triển mạnh nhờ ứng dụng của trí tuệ nhân tạo ?",
+      "options": {
+        "A": "Phát triển kỹ năng mềm.",
+        "B": "Tự động hoá và điều khiển tự động",
+        "C": "Sản xuất thiết bị thông minh",
+        "D": "Y học trong việc chẩn đoán, tiên lượng, điều trị bệnh"
+      },
+      "answer": ""
+    },
+    {
+      "number": 2,
+      "text": "Phát biểu nào sau đây KHÔNG là ví dụ cho khả năng học của hệ thống AI?",
+      "options": {
+        "A": "Chú chó Aibo có thể nghe, hiểu giọng nói của con người để tự phát triển cá tính riêng",
+        "B": "Người máy thông minh có thể nhận diện nhiều dạng khuôn mặt của con người bằng cách được cung cấp nhiều hình ảnh",
+        "C": "Robot lau nhà có thể nhận biết khu vực cần làm sạch nhiều hơn để điều chỉnh phương pháp làm sạch phù hợp",
+        "D": "Robot trong dây chuyền sản xuất có khả năng hoạt động liên tục nhiều giờ."
+      },
+      "answer": ""
+    },
+    {
+      "number": 3,
+      "text": "Phát biểu nào sau đây KHÔNG ĐÚNG khi nói về thuận lợi mà công nghệ AI mang đến cho con người?",
+      "options": {
+        "A": "Có thể xử lý khối lượng lớn công việc trong các lĩnh vực khác nhau",
+        "B": "Giúp các doanh nghiệp có thể định hướng mục tiêu phát triển.",
+        "C": "Chi phí cao đối với hầu hết các nguồn lực dành cho công nghệ AI",
+        "D": "Hỗ trợ hệ thống nhận diện khuôn mặt trong chấm công tự động"
+      },
+      "answer": ""
+    },
+    {
+      "number": 4,
+      "text": "Phát biểu nào sau đây mô tả đúng về mạng WAN?",
+      "options": {
+        "A": "Tên viết tắt của Wide Area Network, nghĩa là mạng diện rộng.",
+        "B": "Tên viết đầy đủ là Wireless Area Network, nghĩa là mạng diện rộng",
+        "C": "Là mạng kết nối trong phạm vi một trường học hoặc chung cư",
+        "D": "Là một dạng đặc biệt của mạng Internet"
+      },
+      "answer": ""
+    },
+    {
+      "number": 5,
+      "text": "Mô tả nào dưới đây về thiết bị Access Point là đúng?\nSwitch của mạng không dây",
+      "options": {
+        "A": "Access Point là thiết bị kết nối trung tâm của mạng có dây, tương tự như",
+        "B": "Access Point là thiết bị mà mạng LAN bắt buộc phải có",
+        "C": "Access Point có chức năng tương tự như Switch, hai thiết bị này có thể thay thế vai trò của nhau trong mạng",
+        "D": "Thông thường để phủ sóng Wi-Fi cho một tòa nhà nhiều tầng thì cần lắp đặt nhiều Access Point."
+      },
+      "answer": ""
+    },
+    {
+      "number": 6,
+      "text": "Phương án nào cho bên dưới hình sau chỉ ra đúng tên của thiết bị mạng được kí hiệu \"Y\" ở trong hình?",
+      "options": {
+        "A": "Router.",
+        "B": "Modem",
+        "C": "Switch",
+        "D": "Access Point"
+      },
+      "answer": ""
+    },
+    {
+      "number": 7,
+      "text": "Giao tiếp trong không gian mạng KHÔNG có ưu điểm nào dưới đây?",
+      "options": {
+        "A": "Có thể thực hiện mọi lúc, mọi nơi",
+        "B": "Mở rộng kết nối xã hội và khả năng tương tác",
+        "C": "Dễ thể hiện các ngôn ngữ hình thể, các tín hiệu cảm xúc.",
+        "D": "Tiết kiệm thời gian và công sức hoặc chi phí"
+      },
+      "answer": ""
+    },
+    {
+      "number": 8,
+      "text": "Hành động nào dưới đây thể hiện được tính nhân văn trên không gian mạng?",
+      "options": {
+        "A": "Chia sẻ, thông tin cá nhân, hình ảnh của người khác khi không được sự đồng ý",
+        "B": "Sống ảo, khoe khoang, chia sẻ thông tin không chân thật",
+        "C": "Sử dụng các ngôn từ thiếu lịch sự đối với những người không cùng sắc tộc, tôn giáo",
+        "D": "Chia sẻ, đồng cảm với những hoàn cảnh khó khăn."
+      },
+      "answer": ""
+    },
+    {
+      "number": 9,
+      "text": "Bạn học sinh A tạo một chủ đề để đăng ảnh và thông tin không đúng sự thật về một học sinh B trên một trang diễn đàn với những lời lẽ trêu chọc. Bạn nên làm gì trên chủ đề đó?",
+      "options": {
+        "A": "Đính chính lại những thông tin không đúng sự thật giúp bạn B",
+        "B": "Đề nghị xóa chủ đề và giải thích thông tin chính xác với ngôn từ đúng mực.",
+        "C": "Viết bài tỏ thái độ phản đối và phê phán các bạn tham gia chủ đề với lời lẽ trêu chọc bạn",
+        "D": "Báo với thầy/cô giáo để kỷ luật bạn A vì bạn đã đưa sai thông tin trêu chọc bạn"
+      },
+      "answer": ""
+    },
+    {
+      "number": 10,
+      "text": "Thẻ nào dưới đây được sử dụng để chèn video vào trang web?",
+      "options": {
+        "A": "<img>\tB. <audio>",
+        "C": "<video>.\tD. <iframe>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 11,
+      "text": "Thẻ nào dưới đây được sử dụng để tạo các mục nội dung trong danh sách?",
+      "options": {
+        "A": "<ol>\tB. <ul>",
+        "C": "<li>.\tD. <table>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 12,
+      "text": "Trong văn bản HTML, thẻ nào sau đây quy định phần chứa nội dung chính của trang web?",
+      "options": {
+        "A": "<header>\tB. <body>. \tC. <meta>  \t D. <tile>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 13,
+      "text": "Thẻ HTML nào sau đây cần được sử dụng để nhấn mạnh văn bản quan trọng bằng cách in nghiêng văn bản?",
+      "options": {
+        "A": "<strong>\tB. <u>\tC.<em>.               D. <audio>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 14,
+      "text": "Phương án nào dưới đây mô tả đúng chức năng của đoạn mã HTML sau?\n<a href=”https://www.google.com.vn/”>  Trang Google </a>",
+      "options": {
+        "A": "Tạo một siêu liên kết, giúp kết nối trang web hiện tại với trang Google.",
+        "B": "Tạo một thông báo hiện thị nội dung của trang Google lên trang web hiện tại",
+        "C": "Sao chép toàn bộ nội dung trang Google sang trang web hiện tại",
+        "D": "Sao chép toàn bộ nội dung trang web hiện tai sang trang Google"
+      },
+      "answer": ""
+    },
+    {
+      "number": 15,
+      "text": "Đoạn mã HTML dưới đây tạo ra một khung để nhúng một trang web vào văn bản HTML. Phương án nào sau đây nêu ĐÚNG kết quả thực hiện?\n<iframe src=”Tuyen_sinh.html”  width=”600” height=”300”> </iframe>",
+      "options": {
+        "A": "Xảy ra lỗi vì URL không hợp lệ.",
+        "B": "Không có lỗi, hiển thị khung (nội tuyến) có nội dung: “Tuyen_sinh.html” width=”600” height=”300”",
+        "C": "Không có lỗi, nhưng hiển thị nội dung khung (nội tuyến) rỗng",
+        "D": "Không có lỗi, hiển thị khung (nội tuyến) có nội dung của trang web Tuyen_sinh.html,  được xác định kích thước chiều rộng là 600 và chiều cao là 300."
+      },
+      "answer": ""
+    },
+    {
+      "number": 16,
+      "text": "Sử dụng cặp thẻ HTML nào sau đây để tạo biểu mẫu?",
+      "options": {
+        "A": "<table></table>",
+        "B": "<form></form>.",
+        "C": "<iframe></iframe>",
+        "D": "<model></model>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 17,
+      "text": "Trong một trang web muốn tạo liên kết để khi nháy chuột vào từ “THPT PHAN ĐĂNG LƯU” sẽ chuyển đến trang chủ của website https://thpt-pdluu.hue.edu.vn thì cần dùng mã HTML nào sau đây?",
+      "options": {
+        "A": "<a href = “https://thpt-pdluu.hue.edu.vn”> THPT PHAN ĐĂNG LƯU </a>.",
+        "B": "<a href = “https://thpt-pdluu.hue.edu.vn”> Trường THPT A </a>",
+        "C": "<a href = “TruongTHPTPDL”> https://thpt-pdluu.hue.edu.vn </a>",
+        "D": "<a href = “https://thpt-pdluu.hue.edu.vn”>   </a>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 18,
+      "text": "Định dạng kiểu CSS nào sau đây được sử dụng để đặt màu nền của phần tử <p> là màu đỏ?",
+      "options": {
+        "A": "p{background-color: red; }.",
+        "B": "p{color: red; }",
+        "C": "p{bg-color: red; }",
+        "D": "p{background: red; }"
+      },
+      "answer": ""
+    },
+    {
+      "number": 19,
+      "text": "Để thay đổi cách hiển thị của phần tử <a>, ta sử dụng thuộc tính CSS nào sau đây?",
+      "options": {
+        "A": "display: inline- block",
+        "B": "display: block.",
+        "C": "display: inline",
+        "D": "display: inline- box"
+      },
+      "answer": ""
+    },
+    {
+      "number": 20,
+      "text": "Mã lệnh CSS nào sau đây cho phép tạo ra một khoảng cách giữa các phần tử hiện tại và các phần tử lân cận là 40px?",
+      "options": {
+        "A": "margin: 40px.",
+        "B": "margin -all: 40px",
+        "C": "padding: 40px",
+        "D": "border: 40px"
+      },
+      "answer": ""
+    },
+    {
+      "number": 21,
+      "text": "Khai báo nào sau đây được dùng để tạo dòng chữ “ Tôi yêu Huế!” in đậm khi hiển thị trên màn hình trình duyệt web?",
+      "options": {
+        "A": "<strong>Tôi yêu Huế! </strong>.",
+        "B": "<bold>Tôi yêu Huế! </bold>",
+        "C": "<style= “bold”>Tôi yêu Huế! </style>",
+        "D": "<style= “strong”>Tôi yêu Huế! </style>"
+      },
+      "answer": ""
+    },
+    {
+      "number": 22,
+      "text": "Kĩ năng nào sau đây KHÔNG đòi hỏi đối với nghề Sửa chữa và bảo trì máy tính?",
+      "options": {
+        "A": "Hiểu biết về hoạt động của các bộ phận trong máy tính",
+        "B": "Biết cách kết nối các máy tính với nhau thành hệ thống mạng LAN và kết nối máy tính với các thiết bị khác như máy in, máy chiếu",
+        "C": "Có kĩ năng giao tiếp để hướng dẫn người dùng khi máy tính của họ gặp sự cố",
+        "D": "Có kĩ năng chế tạo linh kiện máy tính mới để thay thế cho linh kiện điện tử bị hỏng."
+      },
+      "answer": ""
+    },
+    {
+      "number": 23,
+      "text": "An toàn thông tin liên quan đến việc nào sau đây?",
+      "options": {
+        "A": "Chỉ bảo vệ phần cứng máy tính",
+        "B": "Chỉ bảo vệ thông tin cá nhân",
+        "C": "Bảo vệ thông tin số và hệ thống thông tin.",
+        "D": "Bảo vệ phần mềm ứng dụng"
+      },
+      "answer": ""
+    },
+    {
+      "number": 24,
+      "text": "Nhiệm vụ nào không thuộc về kĩ sư an toàn thông tin?",
+      "options": {
+        "A": "Thiết lập và hướng dẫn các quy định an toàn thông tin cho người dùng",
+        "B": "Sử dụng công cụ theo dõi và báo động khi có tín hiệu đáng ngờ",
+        "C": "Tạo và chỉnh sửa nội dung website.",
+        "D": "Tư vấn an toàn thông tin cho bộ phận phát triển phần cứng và phần mềm"
+      },
+      "answer": ""
+    }
+  ],
+  "tfQuestions": [
+    {
+      "number": 1,
+      "text": "Chị của bạn Ngọc học kinh tế ra trường chưa xin được việc nên mở một cửa hàng tạp hóa.  Để hỗ trợ chị, Ngọc muốn thiết lập một cơ sở dữ liệu quản lí cửa hàng tạp hóa gồm hai bảng:\nBảng MẶT HÀNG: Mã hàng, Tên hàng, Đơn vị tính, Đơn giá.\nBảng BÁN HÀNG: Stt, Mã hàng, Số lượng bán, Ngày bán.\nNgọc đưa ra một số ý kiến:\n(11F, D2/C1d-V-CC5) Đúng",
+      "items": {
+        "a": "Kiểu dữ liệu của trường Mã hàng bắt buộc phải là kiểu số. (11F, D2/C1a-B-CC5) Sai",
+        "b": "Bảng BÁN HÀNG gồm 3 thuộc tính là Mã hàng, Số lượng bán, Ngày bán.(11F, D2/C1b-B-CC5) Sai",
+        "c": "Khóa chính của bảng MẶT HÀNG  là trường Mã hàng. (11F, D2/C1c-H-CC5) Đúng",
+        "d": "Nếu liên kết bảng MẶT HÀNG với bảng BÁN HÀNG theo trường Mã hàng thì có thể thống kê được số lượng hàng bán  ra trong một ngày."
+      },
+      "answers": {}
+    },
+    {
+      "number": 2,
+      "text": "Một nhóm học sinh lớp 12 đang thảo luận về việc sử dụng internet để tìm kiếm thông tin và chia sẻ tài liệu học tập. Trong cuộc thảo luận, đã đưa ra các nhận định sau:",
+      "items": {
+        "a": "Chia sẻ tài liệu học tập có bản quyền lên mạng mà không có sự cho phép của tác giả là vi phạm pháp luật và không đạo đức. (Đúng)",
+        "b": "Việc sử dụng các nguồn tài liệu học tập từ internet mà không kiểm chứng nguồn gốc có thể dẫn đến việc tiếp nhận thông tin sai lệch hoặc vi phạm bản quyền. (Đúng)",
+        "c": "Khi tham gia vào một mạng nội bộ (LAN), mọi người dùng đều có quyền truy cập và chỉnh sửa tất cả các tệp tin trong mạng mà không cần sự cho phép của người khác. (D2/C2c-B-AC1) (Sai)",
+        "d": "Việc thiết kế một trang web phải đảm bảo trang có giao diện thân thiện với người dùng, tốc độ tải nhanh và tương thích với nhiều loại thiết bị. (D2/C2d-V-CC3) (Đúng)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 3,
+      "text": "Huy đang tìm hiểu thuật toán sắp xếp nổi bọt để áp dụng sắp xếp dữ liệu trong phần mềm cậu đang viết. Trong quá trình tìm hiểu Huy đã viết một chương trình đơn giản như sau:\nMột số người bạn của Huy có nêu ý kiến về chương trình trên như sau:\nc. Nếu thay len(a)-1 ở dòng 3 thành 7 thì chương trình sẽ bị lỗi khi thực hiện (Hiểu, S)\nd. Dòng lệnh thứ 6 được thực hiện không quá 5 lần (VD, Đ)",
+      "items": {
+        "a": "Dòng thứ 6 của chương trình trên đang có lỗi cú pháp (Biết, S)",
+        "b": "Chương trình này sắp xếp danh sách a theo thứ tự không giảm (Hiểu, Đ)"
+      },
+      "answers": {}
+    },
+    {
+      "number": 4,
+      "text": "Một ứng dụng học máy có thể nhận dạng chữ viết tay trên ứng dụng ghi chú của điện thoại thông minh. Những ghi chú bằng chữ viết tay này sẽ được chuyển thành văn bản và lưu thành tệp văn bản.\nVới vấn đề nêu trên, một số bạn học sinh đưa ra các ý kiến sau:\na. Nhận dạng chữ viết tay trên điện thoại thông minh có 2 chế độ. Đúng(12FCS-B-AS1)\nb. Ở chế độ ngoại tuyến (offline), hình ảnh chữ viết tay không được thu nhận. Sai (12FCS-H-AS1)\nc. Ở chế độ trực tuyến, máy tính sẽ thu nhận chữ viết cùng lúc với thao tác viết và phân tích chữ viết kết hợp với chuyển động. Đúng(12FCS-H-AS1)\nd. Sử dụng ứng dụng nhận dạng chữ viết để xác thực sinh trắc học chữ kí. Đúng(12FCS-V-AS1)",
+      "items": {},
+      "answers": {}
+    },
+    {
+      "number": 5,
+      "text": "Để hỗ trợ việc quản lí thông tin bán hàng tại một siêu thị, người ta xây dựng một phần mềm quản lí với các cơ sở dữ liệu quan hệ gồm 3 bảng có cấu trúc như sau:\nBảng KHACH_HANG (MAKH, TENKH, SDT, DIACHI, MA_HANG, SOLUONG) quản lí thông tin khách hàng của siêu thị.\nBảng MAT_HANG (MA_HANG, TEN_HANG, MA_NSX, DON_GIA) quản lí các mặt hàng.\nBảng NHA_SX (MA_NSX, TEN_NSX, DIA_CHI) quản lí các mặt hàng.\nSau khi tìm hiểu dữ liệu của phần mềm, một bạn học sinh đã đưa ra các nhận xét sau đây:\na. Thuật ngữ “thuộc tính” dùng trong hệ CSDL quan hệ là chỉ đối tượng hàng. (11EICT-B-CC5) – Sai\nb. Siêu thị chỉ có một máy tính để quản lí thông tin bán hàng, do vậy nên lựa chọn hệ cơ sở dữ liệu tập trung. (11EICT-B-CC5) - Đúng\nc. MA_HANG là khóa ngoài của bảng KHACH_HANG. (11EICT-H-CC5) - Đúng\nd. Để lấy ra đầy đủ thông tin mua hàng của một khách hàng tại siêu thị thì có MA_KH bằng MH001 thì chỉ cần kết nối 2 bảng KHACH_HANG và bảng MAT_HANG. (11EICT-V-CC7) - Sai",
+      "items": {},
+      "answers": {}
+    },
+    {
+      "number": 6,
+      "text": "Duy muốn sử dụng phần mềm tạo trang web để tạo website giới thiệu về các địa điểm du lịch làng nghề nổi tiếng của phường Dương Nỗ gồm 3 trang: Trang chủ, Giới thiệu, Liên hệ. Bạn muốn tạo phần đầu trang có biểu ngữ, logo và thanh điều hướng để liên kết các trang web trong website với nhau. Duy có một vài nhận xét sau:",
+      "items": {
+        "a": "Có thể tự thiết kế phần đầu trang hoặc sử dụng các theme (mẫu) có sẵn. (12EICT, D2/C6a-B-CC3) Đúng",
+        "b": "Tất các các trang web trong một website thường có thanh điều hướng giống nhau. (12EICT, D2/C6b-B-CC3) Đúng",
+        "c": "Logo hoặc biểu ngữ của trang web được thêm vào bằng cách chèn thêm hình ảnh (Image) từ máy tính hoặc từ Internet thông qua URL. (12EICT, D2/C6c-H-CC3) Đúng",
+        "d": "Không thể tạo các mục con (submenu) trong các mục (nội dung) của thanh điều hướng. (12EICT, D2/C6d-V-CC3) Sai"
+      },
+      "answers": {}
+    }
+  ]
+}
